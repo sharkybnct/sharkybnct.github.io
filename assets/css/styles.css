@@ -1,0 +1,75 @@
+.color-yellow {
+  color: #ffc61a !important;
+}
+
+.background-color-gray {
+  background-color: #946c0a !important;
+}
+
+.background-color-yellow {
+  background-color: #ffc61a !important;
+}
+
+.ladi-wraper {
+  padding-top: 80px;
+}
+
+.header {
+  width: 100%;
+  top: 0px;
+  left: 0px;
+  position: fixed;
+  z-index: 90000050;
+  height: 80px;
+  margin: 0 auto;
+  background-color: rgb(255, 255, 255);
+}
+
+header {
+  display: grid !important;
+  align-items: center;
+  grid-template-columns: 20% auto;
+  height: 80px;
+  margin: auto;
+  max-width: 1200px;
+}
+@media screen and (max-width: 767px) {
+  header .content_header {
+    display: none;
+  }
+}
+header .content_header ul {
+  display: grid;
+  grid-template-columns: repeat(8, 1fr);
+  gap: 0px;
+  align-items: center;
+  margin: auto;
+  text-align: center;
+}
+header .content_header ul li {
+  font-family: "Intelligent Design - AvertaStdCY-Semibold_1.otf";
+  color: rgb(63, 63, 63);
+  font-size: 18px;
+  text-align: center;
+}
+header .content_header ul li svg {
+  width: 37px;
+  height: 37px;
+}
+header .content_header ul li .phone_content {
+  display: flex;
+}
+header .content_header ul li .phone_number {
+  background-color: rgb(58, 194, 76);
+  border-radius: 96px;
+  color: rgb(255, 255, 255);
+  font-size: 14px !important;
+  text-align: center;
+  line-height: 1.6;
+  padding: 10px 20px;
+  margin-left: -25px;
+}
+header .content_header ul li .phone_number:hover {
+  background-color: transparent;
+  color: rgb(58, 194, 76);
+}/*# sourceMappingURL=styles.css.map */
