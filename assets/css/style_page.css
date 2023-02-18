@@ -1,0 +1,54 @@
+body {
+  direction: ltr;
+}
+
+@media (min-width: 768px) {
+  .ladi-section .ladi-container {
+    width: 1200px;
+  }
+}
+
+@media (max-width: 767px) {
+  .ladi-section .ladi-container {
+    width: 420px;
+  }
+}
+
+@font-face {
+  font-family: "Intelligent Design - AvertaStdCY-Regular_3.otf";
+  src: url("../fonts/intelligent-design-avertastdcy-regular_3-20230107072903-vlwri.otf");
+}
+
+@font-face {
+  font-family: "SVN-Arsilon.otf";
+  src: url("../fonts/svn-arsilon-20230107072230-a0hlm.otf");
+}
+
+@font-face {
+  font-family: "Intelligent Design - AvertaStdCY-Bold_1.otf";
+  src: url("../fonts/intelligent-design-avertastdcy-bold_1-20230107072215-1gdnu.otf");
+}
+
+@font-face {
+  font-family: "Intelligent Design - AvertaStdCY-Regular_3.otf";
+  src: url("../fonts/intelligent-design-avertastdcy-regular_3-20230107072903-vlwri.otf");
+}
+
+@font-face {
+  font-family: "Intelligent Design - AvertaStdCY-Semibold_1.otf";
+  src: url("../fonts/intelligent-design-avertastdcy-semibold_1-20230107072215-7ebn3.otf");
+}
+
+@font-face {
+  font-family: "SVN-Have-Heart.ttf";
+  src: url("../fonts/svn-have-heart-20221026065210-uzcj9.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Intelligent Design - AvertaStdCY-Extrabold_1.otf";
+  src: url("../fonts/intelligent-design-avertastdcy-extrabold_1-20230107072215-phw90.otf");
+}
+
+body {
+  font-family: "Intelligent Design - AvertaStdCY-Regular_3.otf";
+}
