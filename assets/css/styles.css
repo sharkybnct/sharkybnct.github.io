@@ -165,7 +165,7 @@ header .content_header ul li .phone_number p {
   max-width: 550px;
   height: 100px;
   display: grid;
-  grid-template-columns: 27% repeat(2, 1fr);
+  grid-template-columns: 27% repeat(3, 1fr);
 }
 .product-popup .product-item {
   display: flex;
@@ -188,13 +188,17 @@ header .content_header ul li .phone_number p {
 .product-popup .product-item .sub-title:hover {
   opacity: 0.5;
 }
+.product-popup .product-closure {
+  width: 200px !important;
+}
 .product-popup .product-other {
   width: 250px !important;
 }
 
 #weaveHair,
 #bulkHair,
-#catalogue {
+#catalogue,
+#closureAndFrontal {
   max-width: 1200px;
   margin: auto;
   padding: 30px;
