@@ -15893,10 +15893,9 @@
   }
 
   #DROPBOX1574 {
-    width: 730px;
-    height: 150px;
+    width: fit-content;
+    height: fit-content;
     top: 80px !important;
-    right: 0px;
     bottom: 0px;
     margin: auto;
   }
@@ -15944,7 +15943,7 @@
   }
 
   #HEADLINE1578 {
-    width: 90px;
+    width: 120px;
     top: 16px;
     left: 130px;
   }
@@ -16285,7 +16284,7 @@
   }
 
   #BOX1600 {
-    width: 120px;
+    width: 130px;
     height: 150px;
     top: 0px;
     left: 109px;
@@ -31555,7 +31554,7 @@
 
   #POPUP1455 {
     width: 400px;
-    height: 270px;
+    height: 200px;
     top: 0px;
     left: 0px;
     right: 0px;
@@ -33145,7 +33144,7 @@
   }
 
   #HEADLINE1578 {
-    width: 90px;
+    width: 110px;
     top: 45px;
     left: 13px;
   }

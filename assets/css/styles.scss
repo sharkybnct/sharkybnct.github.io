@@ -1,4 +1,4 @@
-@import 'mixin';
+@import 'common';
 
 .color-yellow {
   color: $color-yellow !important;
@@ -66,6 +66,7 @@
   margin: 0 auto;
   background-color: rgb(255, 255, 255);
 }
+
 header {
   display: grid !important;
   align-items: center;
@@ -144,6 +145,85 @@ header {
     
     p {
       color: $color-yellow !important;
+    }
+  }
+}
+
+.product-popup {
+  background-color: white;
+  max-width: 550px;
+  height: 100px;
+  display: grid;
+  grid-template-columns: 27% repeat(2, 1fr);
+
+  .product-item {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-content: flex-start;
+    padding: 10px 15px;
+    width: 150px;
+
+    .title {
+      font: normal 400 18px/29px $font-intell-bold-1;
+      color: rgb(233, 10, 137);
+      &:hover {
+        color: #3f3f3f;
+      }
+    }
+
+    .sub-title {
+      font: normal 400 14px/22px $font-intell-bold-1;
+
+      &:hover {
+        opacity: 0.5;
+      }
+    }
+  }
+
+  .product-other {
+    width: 250px !important;
+  }
+}
+
+#weaveHair,
+#bulkHair,
+#catalogue {
+  max-width: 1200px;
+  margin: auto;
+  padding: 30px;
+}
+
+.text-align-left {
+  text-align: left;
+}
+
+.product__sp__list {
+  padding: 10px;
+  .product__sp--item {
+    display: grid;
+    grid-template-columns: 30% 70%;
+    min-height: 50px;
+    align-items: center;
+
+    .title {
+      font: normal 400 16px/26px $font-intell-bold-1;
+      color: rgb(233, 10, 137);
+      &:hover {
+        color: #3f3f3f;
+      }
+    }
+    .sub-title {
+      font: normal 400 14px/22px $font-intell-bold-1;
+
+      &:hover {
+        opacity: 0.5;
+      }
+    }
+
+    .product__item--left {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
     }
   }
 }

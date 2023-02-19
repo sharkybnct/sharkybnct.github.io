@@ -12,6 +12,11 @@
   border-radius: 0px;
 }
 
+.backgroud-light-header {
+  background-color: rgb(248, 248, 248) !important;
+  border-radius: 0px;
+}
+
 .mt-50 {
   margin-top: 50px !important;
 }
@@ -153,4 +158,75 @@ header .content_header ul li .phone_number p {
 }
 .btn-buy-now:hover p {
   color: #ffc61a !important;
+}
+
+.product-popup {
+  background-color: white;
+  max-width: 550px;
+  height: 100px;
+  display: grid;
+  grid-template-columns: 27% repeat(2, 1fr);
+}
+.product-popup .product-item {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-content: flex-start;
+  padding: 10px 15px;
+  width: 150px;
+}
+.product-popup .product-item .title {
+  font: normal 400 18px/29px "Intelligent Design - AvertaStdCY-Bold_1.otf";
+  color: rgb(233, 10, 137);
+}
+.product-popup .product-item .title:hover {
+  color: #3f3f3f;
+}
+.product-popup .product-item .sub-title {
+  font: normal 400 14px/22px "Intelligent Design - AvertaStdCY-Bold_1.otf";
+}
+.product-popup .product-item .sub-title:hover {
+  opacity: 0.5;
+}
+.product-popup .product-other {
+  width: 250px !important;
+}
+
+#weaveHair,
+#bulkHair,
+#catalogue {
+  max-width: 1200px;
+  margin: auto;
+  padding: 30px;
+}
+
+.text-align-left {
+  text-align: left;
+}
+
+.product__sp__list {
+  padding: 10px;
+}
+.product__sp__list .product__sp--item {
+  display: grid;
+  grid-template-columns: 30% 70%;
+  min-height: 50px;
+  align-items: center;
+}
+.product__sp__list .product__sp--item .title {
+  font: normal 400 16px/26px "Intelligent Design - AvertaStdCY-Bold_1.otf";
+  color: rgb(233, 10, 137);
+}
+.product__sp__list .product__sp--item .title:hover {
+  color: #3f3f3f;
+}
+.product__sp__list .product__sp--item .sub-title {
+  font: normal 400 14px/22px "Intelligent Design - AvertaStdCY-Bold_1.otf";
+}
+.product__sp__list .product__sp--item .sub-title:hover {
+  opacity: 0.5;
+}
+.product__sp__list .product__sp--item .product__item--left {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
 }/*# sourceMappingURL=styles.css.map */
