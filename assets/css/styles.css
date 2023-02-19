@@ -10,6 +10,20 @@
   background-color: #ffc61a !important;
 }
 
+@media screen and (min-width: 768px) {
+  .display-sp {
+    display: none !important;
+  }
+}
+@media screen and (max-width: 767px) {
+  .display-sp #BUTTON29 {
+    left: 250px;
+  }
+}
+.display-sp #SHAPE1638 {
+  left: 200px;
+}
+
 .ladi-wraper {
   padding-top: 80px;
 }
