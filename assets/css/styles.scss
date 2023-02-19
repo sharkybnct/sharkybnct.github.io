@@ -1,18 +1,7 @@
-$sp: 767px;
-@mixin sp {
-  @media screen and (max-width: $sp) {
-    @content;
-  }
-}
-
-@mixin pc {
-  @media screen and (min-width: ($sp + 1)) {
-    @content;
-  }
-}
+@import 'mixin';
 
 .color-yellow {
-  color: #ffc61a !important;
+  color: $color-yellow !important;
 }
 
 .background-color-gray {
@@ -20,7 +9,7 @@ $sp: 767px;
 }
 
 .background-color-yellow {
-  background-color: #ffc61a !important;
+  background-color: $color-yellow !important;
 }
 
 .display-sp {
@@ -30,7 +19,32 @@ $sp: 767px;
 
   #BUTTON29 {
     @include sp {
-      left: 250px;
+      left: 230px;
+      width: 150px;
+
+      &:hover {
+        svg {
+          path {
+            fill: rgb(58, 194, 76);
+          }
+        }
+      }
+
+      #BUTTON_TEXT29 {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+      }
+
+      svg {
+        width: 15px;
+        height: 15px;
+        margin-left: 14px;
+      }
+
+      p {
+        margin-left: -10px;
+      }
     }
   }
 
@@ -66,7 +80,7 @@ header {
     }
     ul {
       display: grid;
-      grid-template-columns: repeat(8, 1fr);
+      grid-template-columns: repeat(7, 1fr);
       gap: 0px;
       align-items: center;
       margin: auto;
@@ -92,14 +106,45 @@ header {
           font-size: 14px !important;
           text-align: center;
           line-height: 1.6;
-          padding: 10px 20px;
-          margin-left: -25px;
+          padding: 5px 0px;
+          width: 160px !important;
+          display: flex;
+          justify-content: center;
+          align-items: center;
           &:hover {
             background-color: transparent;
             color: rgb(58, 194, 76);
+
+            svg {
+              path {
+                fill: rgb(58, 194, 76);
+              }
+            }
+          }
+
+          svg {
+            width: 15px;
+            height: 15px;
+            margin-left: 16px;
+          }
+
+          p {
+            margin-left: -10px;
           }
         }
       }
     }
   }
 }
+
+.btn-buy-now {
+  background-color: $color-yellow;
+  &:hover {
+    background-color: transparent !important;
+    
+    p {
+      color: $color-yellow !important;
+    }
+  }
+}
+

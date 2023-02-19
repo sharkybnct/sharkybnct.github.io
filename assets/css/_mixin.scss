@@ -1,0 +1,47 @@
+$sp: 767px;
+$color-yellow: #ffc61a;
+$color-gray: #946c0a;
+$font-family: "Intelligent Design - AvertaStdCY-Bold_1.otf";
+$color: rgb(234, 208, 166);
+$font-svn: "SVN-Arsilon.otf";
+$font-intell-regular-3: "Intelligent Design - AvertaStdCY-Regular_3.otf";
+$font-intell-bold-1: "Intelligent Design - AvertaStdCY-Bold_1.otf";
+
+@mixin sp {
+  @media screen and (max-width: $sp) {
+    @content;
+  }
+}
+
+@mixin pc {
+  @media screen and (min-width: ($sp + 1)) {
+    @content;
+  }
+}
+
+
+.text-bold {
+  font-weight: 700;
+}
+
+.backgroud-red-light {
+  background-color: rgba(205, 19, 119, 0.1);
+  border-radius: 0px;
+}
+
+.backgroud-light {
+  background-color: white;
+  border-radius: 0px;
+}
+
+.mt-50 {
+  margin-top: 50px !important;
+}
+
+.mt-20 {
+  margin-top: 20px !important;
+}
+
+.text-nowrap {
+  white-space: nowrap;
+}
