@@ -23,6 +23,22 @@ $sp: 767px;
   background-color: #ffc61a !important;
 }
 
+.display-sp {
+  @include pc {
+    display: none !important;
+  }
+
+  #BUTTON29 {
+    @include sp {
+      left: 250px;
+    }
+  }
+
+  #SHAPE1638 {
+    left: 200px;
+  }
+}
+
 .ladi-wraper {
   padding-top: 80px;
 }
