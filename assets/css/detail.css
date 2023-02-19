@@ -1,0 +1,399 @@
+.text-bold {
+  font-weight: 700;
+}
+
+.backgroud-red-light {
+  background-color: rgba(205, 19, 119, 0.1);
+  border-radius: 0px;
+}
+
+.backgroud-light {
+  background-color: white;
+  border-radius: 0px;
+}
+
+.mt-50 {
+  margin-top: 50px !important;
+}
+
+.mt-20 {
+  margin-top: 20px !important;
+}
+
+.text-nowrap {
+  white-space: nowrap;
+}
+
+.body {
+  max-width: 1200px;
+  margin: auto;
+  margin-top: 30px;
+}
+@media screen and (max-width: 767px) {
+  .body {
+    margin: 0 15px;
+  }
+}
+
+.body_header {
+  display: grid;
+  gap: 30px;
+}
+@media screen and (min-width: 768px) {
+  .body_header {
+    grid-template-columns: 50% 50%;
+  }
+}
+.body_header--left {
+  position: relative;
+}
+.body_header--left .slider {
+  height: 530px;
+}
+@media screen and (max-width: 767px) {
+  .body_header--left .slider {
+    height: 388px;
+  }
+  .body_header--left .slider .slick-list {
+    width: 500px;
+  }
+}
+@media screen and (max-width: 767px) and (max-width: 767px) {
+  .body_header--left .slider .slick-list {
+    width: 388px;
+  }
+}
+.body_header--left .slider img {
+  width: 100%;
+  height: 500px;
+}
+@media screen and (max-width: 767px) {
+  .body_header--left .slider img {
+    width: 388px;
+    height: 400px;
+  }
+}
+.body_header--right .title {
+  font: normal 29px/1.6 "Intelligent Design - AvertaStdCY-Bold_1.otf";
+  color: rgb(0, 0, 0);
+  text-align: left;
+}
+.body_header--right .price {
+  font: normal 30px/1.6 "Intelligent Design - AvertaStdCY-Bold_1.otf";
+  color: rgb(205, 19, 119);
+  text-align: left;
+}
+.body_header--right .sub-title {
+  color: rgb(0, 0, 0);
+  font-size: 20px;
+  text-align: left;
+  line-height: 1.6;
+  text-transform: uppercase;
+}
+.body_header--right .color {
+  margin-top: 30px;
+}
+.body_header--right .color_item {
+  width: 30px;
+  height: 30px;
+  background-color: rgb(234, 208, 166);
+  border-radius: 999px;
+}
+.body_header--right .length {
+  margin-top: 20px;
+}
+.body_header--right .length__content {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 5px;
+  margin-top: 20px;
+  max-width: 300px;
+}
+.body_header--right .length__content--item {
+  width: 106px;
+  height: 40px;
+  border: 1px solid rgb(234, 234, 234);
+  text-align: center;
+  margin: auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: rgb(104, 104, 104);
+  font-size: 18px;
+  line-height: 1.6;
+  cursor: default;
+}
+@media screen and (max-width: 767px) {
+  .body_header--right .length__content--item {
+    width: 93px;
+  }
+}
+.body_header--right .length__content--item:hover {
+  background: none !important;
+  background-color: rgb(234, 234, 234) !important;
+}
+.body_header--right .quality {
+  margin-top: 20px;
+}
+.body_header--right .quality__content {
+  margin-top: 10px;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 10px;
+  max-width: 400px;
+}
+.body_header--right .quality__content label {
+  color: rgb(104, 104, 104);
+  font-size: 18px;
+  line-height: 1.6;
+}
+.body_header--right .buy-now {
+  margin: 30px 0;
+}
+.body_header--right .buy-now .btn-buy-now p {
+  width: 219px;
+  height: 52px;
+  background-color: #ffc61a;
+  font-family: "Intelligent Design - AvertaStdCY-Bold_1.otf";
+  color: rgb(255, 255, 255);
+  font-size: 20px;
+  text-align: center;
+  line-height: 1.6;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.body_header--right .buy-now .btn-buy-now p:hover {
+  background-color: transparent !important;
+  color: #ffc61a !important;
+}
+
+.body_content {
+  margin-top: 30px;
+  margin-bottom: 100px;
+}
+.body_content--section .title {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.body_content--section .title .hr-left,
+.body_content--section .title .hr-right {
+  width: 100%;
+  border-top: 2px solid rgba(96, 96, 96, 0.5);
+}
+.body_content--section .title_text {
+  color: #ffc61a;
+  text-align: center;
+  letter-spacing: 1px;
+  padding: 0 10px;
+  font: normal 44px/1.6 "SVN-Arsilon.otf";
+}
+@media screen and (max-width: 767px) {
+  .body_content--section .title_text {
+    font-size: 36px;
+  }
+}
+.body_content--section .table {
+  max-width: 763px;
+  margin: auto;
+  margin-top: 30px;
+}
+.body_content--section .table .table-th {
+  min-height: 30px;
+}
+.body_content--section .table_item {
+  min-height: 69px;
+  display: grid;
+  grid-template-columns: 40% 60%;
+  gap: 10px;
+  color: rgb(0, 0, 0);
+  font-size: 17px;
+  text-align: left;
+  line-height: 1.4;
+  padding: 10px 0;
+}
+.body_content--section .table_item .left {
+  padding-left: 30px;
+}
+.body_content--section .section__content .head {
+  text-align: center;
+  font: normal 30px/1.6 "Intelligent Design - AvertaStdCY-Bold_1.otf";
+}
+.body_content--section .section__content .hair_length_img {
+  max-width: 740px;
+  margin: auto;
+}
+.body_content--section .section__content .hair_length_img img {
+  width: 100%;
+  height: auto;
+}
+.body_content--section .section__content .list__item span {
+  font: normal 700 21px/33px "Intelligent Design - AvertaStdCY-Bold_1.otf";
+  color: black;
+}
+.body_content--section .section__content .list__item ul {
+  margin: 10px 0;
+}
+.body_content--section .section__content .list__item ul li {
+  font: normal 400 17px/24px "Intelligent Design - AvertaStdCY-Regular_3.otf";
+  color: #010101;
+  position: relative;
+  counter-increment: linum;
+}
+.body_content--section .section__content .list__item ul li::before {
+  content: counter(linum, disc);
+  color: rgb(205, 19, 119);
+  font-size: 40px;
+}
+.body_content--section .section__content .list__item ul li p {
+  padding-left: 30px;
+  margin-top: -30px;
+}
+.body_content--section .section__content .description {
+  font: normal 400 17px/24px "Intelligent Design - AvertaStdCY-Regular_3.otf";
+  color: black;
+}
+.body_content--section .recommendadio {
+  background-color: #946c0a;
+  padding: 20px 50px;
+}
+@media screen and (max-width: 767px) {
+  .body_content--section .recommendadio {
+    padding: 20px 10px;
+  }
+}
+.body_content--section .recommendadio .title {
+  font: normal 400 44px/70px "SVN-Arsilon.otf";
+  color: #ffc61a;
+  text-align: center;
+  margin-bottom: 10px;
+}
+.body_content--section .recommendadio .recommendadio__content {
+  display: grid;
+  gap: 10px;
+  min-height: 403px;
+}
+@media screen and (min-width: 768px) {
+  .body_content--section .recommendadio .recommendadio__content {
+    grid-template-columns: repeat(4, 1fr);
+    gap: 10px;
+  }
+}
+@media screen and (max-width: 767px) {
+  .body_content--section .recommendadio .recommendadio__content--item {
+    display: grid;
+    grid-template-columns: 100px auto;
+    gap: 30px;
+    align-items: center;
+  }
+}
+.body_content--section .recommendadio .recommendadio__content--item .image {
+  width: 250px;
+  height: 250px;
+}
+@media screen and (max-width: 767px) {
+  .body_content--section .recommendadio .recommendadio__content--item .image {
+    width: 100px;
+    height: 100px;
+  }
+}
+.body_content--section .recommendadio .recommendadio__content--item .image img {
+  width: 100%;
+  height: 100%;
+}
+.body_content--section .recommendadio .recommendadio__content--item .text {
+  font: normal 400 17px/27px "Intelligent Design - AvertaStdCY-Regular_3.otf";
+  color: white;
+}
+@media screen and (min-width: 768px) {
+  .body_content--section .recommendadio .recommendadio__content--item .text {
+    margin-top: 10px;
+  }
+}
+@media screen and (max-width: 767px) {
+  .body_content--section .recommendadio .recommendadio__content--item .text {
+    font-size: 14px !important;
+  }
+}
+
+.slice-btn img,
+.btn-slice-dots img {
+  width: 30px !important;
+  height: 30px !important;
+}
+
+.slice-pre,
+.slice-next {
+  position: absolute;
+  z-index: 9;
+  background-color: transparent;
+  top: 48%;
+  cursor: pointer;
+  opacity: 1;
+}
+@media screen and (max-width: 767px) {
+  .slice-pre,
+  .slice-next {
+    top: 52%;
+  }
+}
+
+.slice-pre {
+  left: 10px;
+}
+
+.slice-next,
+.slice-dots-next {
+  right: 10px;
+}
+@media screen and (max-width: 767px) {
+  .slice-next,
+  .slice-dots-next {
+    left: 90%;
+  }
+}
+
+.slice-dots-pre,
+.slice-dots-next {
+  position: absolute;
+  z-index: 9;
+  background-color: transparent;
+  top: 40%;
+  cursor: pointer;
+  opacity: 1;
+}
+
+.slice-dots-pre {
+  left: 15px;
+}
+
+.slice-dots-next {
+  right: 15px;
+}
+
+/* Style the custom dots */
+.slick-dots {
+  display: flex;
+  position: relative;
+}
+@media screen and (max-width: 767px) {
+  .slick-dots {
+    margin-left: -10px;
+  }
+}
+
+@media screen and (min-width: 768px) {
+  .slick-dots .dots {
+    width: 100px;
+    height: 100px;
+    margin: 0 10px;
+  }
+}
+@media screen and (max-width: 767px) {
+  .slick-dots .dots {
+    width: 60px !important;
+    height: 60px !important;
+    margin: 0 10px;
+  }
+}/*# sourceMappingURL=detail.css.map */
