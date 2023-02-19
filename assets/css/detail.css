@@ -376,6 +376,7 @@
 .slick-dots {
   display: flex;
   position: relative;
+  bottom: 0 !important;
 }
 @media screen and (max-width: 767px) {
   .slick-dots {

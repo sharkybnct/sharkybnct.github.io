@@ -2,18 +2,18 @@ $(document).ready(function () {
   const width = $(window).width();
   $('.slider').slick({
     autoplay: true,
-    autoplaySpeed: 3000,
+    autoplaySpeed: 5000,
     arrows: true,
     infinite: true,
     speed: 500,
     slidesToShow: 1,
     slidesToScroll: 1,
     prevArrow: `<button class="slice-btn slice-pre" id="slicePre">
-      <img src="assets/images/previous-white.svg" alt="prev">
-  </button>`,
+                  <img src="assets/images/previous-white.svg" alt="prev">
+              </button>`,
     nextArrow: ` <button class="slice-btn slice-next" id="sliceNext">
-      <img src="assets/images/next-white.svg" alt="next">
-  </button>`,
+                  <img src="assets/images/next-white.svg" alt="next">
+              </button>`,
   });
 
   if (width > 767) {
@@ -25,8 +25,8 @@ $(document).ready(function () {
 
 
   $(window).resize(function () {
-  let width = $(window).width();
-  if (width > 767) {
+    let width = $(window).width();
+    if (width > 767) {
       console.log(width);
       $('.slick-dots').slick('unslick');
       slickDots();
@@ -44,11 +44,17 @@ $(document).ready(function () {
 const slickDots = () => {
   $('.slick-dots').slick({
     slidesToShow: 4,
+    autoplay: true,
+    autoplaySpeed: 5000,
+    arrows: true,
+    infinite: true,
+    speed: 500,
+    slidesToScroll: 1,
     prevArrow: `<button class="btn-slice-dots slice-dots-pre">
-      <img src="assets/images/previous-white.svg" alt="prev">
-    </button>`,
+                <img src="assets/images/previous-white.svg" alt="prev">
+              </button>`,
     nextArrow: ` <button class="btn-slice-dots slice-dots-next">
-      <img src="assets/images/next-white.svg" alt="next">
-    </button>`
+                <img src="assets/images/next-white.svg" alt="next">
+              </button>`
   })
 }
