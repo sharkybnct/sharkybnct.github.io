@@ -104,6 +104,13 @@
   background-color: rgb(234, 208, 166);
   border-radius: 999px;
 }
+.body_header--right .color .color-back {
+  background-color: black;
+}
+.body_header--right .color .color-display {
+  display: flex;
+  gap: 10px;
+}
 .body_header--right .length {
   margin-top: 20px;
 }

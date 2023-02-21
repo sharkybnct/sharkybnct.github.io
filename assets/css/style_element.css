@@ -3513,12 +3513,10 @@
   #IMAGE364 > .ladi-image > .ladi-image-background {
     width: 86.0442px;
     height: 114.61px;
-    top: -11.6916px;
+    top: 0;
     left: -1.7987px;
     background-image: url("../images/home/bodywavy.png");
   }
-
-
 
   #HEADLINE365 {
     width: 61px;
@@ -14561,6 +14559,13 @@
   #IMAGE1497:hover > .ladi-image {
     transform: scale(0.8);
     -webkit-transform: scale(0.8);
+  }
+
+  #GROUP1490 {
+    width: 200px;
+    height: 299.2px;
+    top: 15.162px;
+    left: 3380px;
   }
 
    #BOX1499 {
@@ -31151,6 +31156,13 @@
     height: 169.158px;
     top: 0px;
     left: 0px;
+  }
+
+  #GROUP1490 {
+    width: 169.157px;
+    height: 257.2px;
+    top: 13.7014px;
+    left: 2748.42px;
   }
 
   #IMAGE1484 > .ladi-image > .ladi-image-background {
