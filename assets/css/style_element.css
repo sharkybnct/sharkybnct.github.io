@@ -61,7 +61,7 @@
   }
 
   #SECTION13 > .ladi-section-background {
-    background-color: rgb(205, 19, 119);
+    background-color: rgb(17, 17, 17);
   }
 
   #SECTION13 .ladi-section-arrow-down {
@@ -124,11 +124,11 @@
   }
 
   #IMAGE19 > .ladi-image > .ladi-image-background {
-    width: 143.157px;
-    height: 63.456px;
+    width: 200px;
+    height: 65px;
     top: 0px;
     left: 0px;
-    background-image: url("https://w.ladicdn.com/s450x400/5c7362c6c417ab07e5196b05/logo-20230107071428-0xwgm.png");
+    background-image: url("../images/home/logo.png");
   }
 
   #SHAPE28 {
@@ -139,7 +139,7 @@
   }
 
   #SHAPE28:hover > .ladi-shape svg:last-child {
-    fill: rgb(205, 19, 119);
+    fill: rgb(17, 17, 17);
   }
 
   #SHAPE28 svg:last-child {
@@ -191,7 +191,7 @@
 
   #HEADLINE45 > .ladi-headline {
     font-family: "SVN-Arsilon.otf";
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
     font-size: 70px;
     text-align: left;
     letter-spacing: 2px;
@@ -212,20 +212,20 @@
   #IMAGE46 {
     width: 300.415px;
     height: 432.598px;
-    top: 50.291px;
-    left: 362px;
+    top: 80px;
+    left: 350px;
   }
 
   #IMAGE46 > .ladi-image > .ladi-image-background {
-    width: 300.415px;
-    height: 432.598px;
+    width: 280px;
+    height: 450px;
     top: 0px;
     left: 0px;
-    background-image: url("https://w.ladicdn.com/s650x750/5c7362c6c417ab07e5196b05/viet-nam-20230107075328-j6glw.png");
+    background-image: url("../images/home/Vietnam.png");
   }
 
   #HEADLINE47 {
-    width: 428px;
+    width: 600px;
     top: 215.889px;
     left: 528px;
   }
@@ -249,8 +249,8 @@
   }
 
   #HEADLINE48 {
-    width: 428px;
-    top: 308.389px;
+    width: 600px;
+    top: 350px;
     left: 528px;
   }
 
@@ -273,8 +273,8 @@
   }
 
   #HEADLINE49 {
-    width: 428px;
-    top: 419.889px;
+    width: 600px;
+    top: 450px;
     left: 528px;
   }
 
@@ -296,21 +296,6 @@
     -webkit-animation-iteration-count: 1;
   }
 
-  #IMAGE50 {
-    width: 206.664px;
-    height: 105.384px;
-    top: 533.303px;
-    left: 442px;
-  }
-
-  #IMAGE50 > .ladi-image > .ladi-image-background {
-    width: 206.664px;
-    height: 207.323px;
-    top: 0px;
-    left: 0px;
-    background-image: url("https://w.ladicdn.com/s550x550/5c7362c6c417ab07e5196b05/van-tay-20230107075328-xjmmk.png");
-  }
-
   #IMAGE51 {
     width: 418.212px;
     height: 268.085px;
@@ -330,7 +315,7 @@
     width: 227.864px;
     height: 170.557px;
     top: 0px;
-    left: 120.012px;
+    left: 200.012px;
   }
 
   #IMAGE52 > .ladi-image > .ladi-image-background {
@@ -360,7 +345,7 @@
     width: 276.303px;
     height: 207.435px;
     top: 160.628px;
-    left: 0px;
+    left: 170px;
   }
 
   #IMAGE54 > .ladi-image > .ladi-image-background {
@@ -370,52 +355,6 @@
     left: 0px;
     background-image: url("https://w.ladicdn.com/s600x550/5c7362c6c417ab07e5196b05/4-20230107080353-7yjo5.png");
   }
-
-  #IMAGE55 {
-    width: 138.673px;
-    height: 138.673px;
-    top: 88.846px;
-    left: 53.815px;
-  }
-
-  #IMAGE55 > .ladi-image > .ladi-image-background {
-    width: 138.673px;
-    height: 138.673px;
-    top: 0px;
-    left: 0px;
-    background-image: url("https://w.ladicdn.com/s450x450/5c7362c6c417ab07e5196b05/van-tay-20230107075328-xjmmk.png");
-  }
-
-  #IMAGE56 {
-    width: 91.9759px;
-    height: 91.976px;
-    top: 0px;
-    left: 324.234px;
-  }
-
-  #IMAGE56 > .ladi-image > .ladi-image-background {
-    width: 91.9759px;
-    height: 91.976px;
-    top: 0px;
-    left: 0px;
-    background-image: url("https://w.ladicdn.com/s400x400/5c7362c6c417ab07e5196b05/van-tay-20230107075328-xjmmk.png");
-  }
-
-  #IMAGE57 {
-    width: 182.665px;
-    height: 182.665px;
-    top: 246.638px;
-    left: 0px;
-  }
-
-  #IMAGE57 > .ladi-image > .ladi-image-background {
-    width: 182.665px;
-    height: 182.665px;
-    top: 0px;
-    left: 0px;
-    background-image: url("https://w.ladicdn.com/s500x500/5c7362c6c417ab07e5196b05/van-tay-20230107075328-xjmmk.png");
-  }
-
   #GROUP58 {
     width: 544.114px;
     height: 454.598px;
@@ -438,42 +377,12 @@
 
   #HEADLINE60 > .ladi-headline {
     font-family: "SVN-Arsilon.otf";
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
     font-size: 54.75px;
     text-align: center;
     letter-spacing: 1px;
     line-height: 1.6;
   }
-
-  #LINE62 {
-    width: 487px;
-    top: 0px;
-    left: -1px;
-  }
-
-  #LINE62 > .ladi-line > .ladi-line-container {
-    border-top: 2px solid rgba(96, 96, 96, 0.5);
-    border-right: 2px solid rgba(96, 96, 96, 0.5);
-    border-bottom: 2px solid rgba(96, 96, 96, 0.5);
-    border-left: 0px !important;
-  }
-
-  #LINE62.ladi-animation > .ladi-line {
-    animation-name: fadeInLeft;
-    -webkit-animation-name: fadeInLeft;
-    animation-delay: 0.2s;
-    -webkit-animation-delay: 0.2s;
-    animation-duration: 1s;
-    -webkit-animation-duration: 1s;
-    animation-iteration-count: 1;
-    -webkit-animation-iteration-count: 1;
-  }
-
-  #LINE62 > .ladi-line {
-    width: 100%;
-    padding: 8px 0px;
-  }
-
   #IMAGE64 {
     width: 265px;
     height: 265px;
@@ -486,7 +395,7 @@
     height: 265px;
     top: 0px;
     left: 0px;
-    background-image: url("https://w.ladicdn.com/s600x600/5c7362c6c417ab07e5196b05/toc-1-20230107081022-xq_mh.png");
+    background-image: url("../images/home/bone-straight.png");
   }
 
   #HEADLINE65 {
@@ -510,7 +419,7 @@
 
   #HEADLINE66 > .ladi-headline {
     font-family: "Intelligent Design - AvertaStdCY-Bold_1.otf";
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
     font-size: 21px;
     text-align: left;
     letter-spacing: 0.5px;
@@ -635,7 +544,7 @@
 
   #HEADLINE98 > .ladi-headline {
     font-family: "Intelligent Design - AvertaStdCY-Bold_1.otf";
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
     font-size: 21px;
     text-align: left;
     letter-spacing: 0.5px;
@@ -654,7 +563,7 @@
     height: 265px;
     top: 0px;
     left: 0px;
-    background-image: url("https://w.ladicdn.com/s600x600/5c7362c6c417ab07e5196b05/toc-2-20230107081022-vlhaa.png");
+    background-image: url("../images/home/natural.png");
   }
 
   #BOX102 {
@@ -734,7 +643,7 @@
 
   #HEADLINE106 > .ladi-headline {
     font-family: "Intelligent Design - AvertaStdCY-Bold_1.otf";
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
     font-size: 21px;
     text-align: left;
     letter-spacing: 0.5px;
@@ -753,7 +662,7 @@
     height: 265px;
     top: 0px;
     left: 0px;
-    background-image: url("https://w.ladicdn.com/s600x600/5c7362c6c417ab07e5196b05/toc-3-20230107081022-9sn5b.png");
+    background-image: url("../images/home/natural-2.png");
   }
 
   #BOX110 {
@@ -833,7 +742,7 @@
 
   #HEADLINE114 > .ladi-headline {
     font-family: "Intelligent Design - AvertaStdCY-Bold_1.otf";
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
     font-size: 21px;
     text-align: left;
     letter-spacing: 0.5px;
@@ -852,7 +761,7 @@
     height: 265px;
     top: 0px;
     left: 0px;
-    background-image: url("https://w.ladicdn.com/s600x600/5c7362c6c417ab07e5196b05/toc-3-20230107081022-9sn5b.png");
+    background-image: url("../images/home/curly.png");
   }
 
   #BOX118 {
@@ -932,35 +841,6 @@
     left: 714px;
   }
 
-  #LINE135 {
-    width: 472px;
-    top: 0px;
-    left: 2px;
-  }
-
-  #LINE135 > .ladi-line > .ladi-line-container {
-    border-top: 2px solid rgba(96, 96, 96, 0.5);
-    border-right: 2px solid rgba(96, 96, 96, 0.5);
-    border-bottom: 2px solid rgba(96, 96, 96, 0.5);
-    border-left: 0px !important;
-  }
-
-  #LINE135.ladi-animation > .ladi-line {
-    animation-name: fadeInRight;
-    -webkit-animation-name: fadeInRight;
-    animation-delay: 0.2s;
-    -webkit-animation-delay: 0.2s;
-    animation-duration: 1s;
-    -webkit-animation-duration: 1s;
-    animation-iteration-count: 1;
-    -webkit-animation-iteration-count: 1;
-  }
-
-  #LINE135 > .ladi-line {
-    width: 100%;
-    padding: 8px 0px;
-  }
-
   #TAB_ITEM134 {
     width: 493px;
     height: 28px;
@@ -990,7 +870,7 @@
 
   #HEADLINE138 > .ladi-headline {
     font-family: "SVN-Arsilon.otf";
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
     font-size: 54.75px;
     text-align: center;
     letter-spacing: 1px;
@@ -1111,7 +991,7 @@
 
   #HEADLINE149 > .ladi-headline {
     font-family: "Intelligent Design - AvertaStdCY-Bold_1.otf";
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
     font-size: 21px;
     text-align: left;
     letter-spacing: 0.5px;
@@ -1210,7 +1090,7 @@
 
   #HEADLINE157 > .ladi-headline {
     font-family: "Intelligent Design - AvertaStdCY-Bold_1.otf";
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
     font-size: 21px;
     text-align: left;
     letter-spacing: 0.5px;
@@ -1309,7 +1189,7 @@
 
   #HEADLINE165 > .ladi-headline {
     font-family: "Intelligent Design - AvertaStdCY-Bold_1.otf";
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
     font-size: 21px;
     text-align: left;
     letter-spacing: 0.5px;
@@ -1408,7 +1288,7 @@
 
   #HEADLINE173 > .ladi-headline {
     font-family: "Intelligent Design - AvertaStdCY-Bold_1.otf";
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
     font-size: 21px;
     text-align: left;
     letter-spacing: 0.5px;
@@ -1535,54 +1415,18 @@
   }
 
   #HEADLINE182 {
-    width: 301px;
+    width: 1020px;
     top: 0px;
-    left: 445.5px;
+    left: 300px;
   }
 
   #HEADLINE182 > .ladi-headline {
     font-family: "SVN-Arsilon.otf";
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
     font-size: 54.75px;
-    text-align: center;
+    text-align: justify;
     letter-spacing: 1px;
     line-height: 1.6;
-  }
-
-  #LINE185 {
-    width: 500px;
-    top: 0px;
-    left: -1px;
-  }
-
-  #LINE185 > .ladi-line > .ladi-line-container {
-    border-top: 2px solid rgba(96, 96, 96, 0.5);
-    border-right: 2px solid rgba(96, 96, 96, 0.5);
-    border-bottom: 2px solid rgba(96, 96, 96, 0.5);
-    border-left: 0px !important;
-  }
-
-  #LINE185.ladi-animation > .ladi-line {
-    animation-name: fadeInLeft;
-    -webkit-animation-name: fadeInLeft;
-    animation-delay: 0.2s;
-    -webkit-animation-delay: 0.2s;
-    animation-duration: 1s;
-    -webkit-animation-duration: 1s;
-    animation-iteration-count: 1;
-    -webkit-animation-iteration-count: 1;
-  }
-
-  #LINE185 > .ladi-line {
-    width: 100%;
-    padding: 8px 0px;
-  }
-
-  #TAB_ITEM184 {
-    width: 459px;
-    height: 28px;
-    top: 0px;
-    left: 0px;
   }
 
   #TABS183 {
@@ -1590,35 +1434,6 @@
     height: 28px;
     top: 35px;
     left: 741px;
-  }
-
-  #LINE188 {
-    width: 495px;
-    top: 0px;
-    left: 2px;
-  }
-
-  #LINE188 > .ladi-line > .ladi-line-container {
-    border-top: 2px solid rgba(96, 96, 96, 0.5);
-    border-right: 2px solid rgba(96, 96, 96, 0.5);
-    border-bottom: 2px solid rgba(96, 96, 96, 0.5);
-    border-left: 0px !important;
-  }
-
-  #LINE188.ladi-animation > .ladi-line {
-    animation-name: fadeInRight;
-    -webkit-animation-name: fadeInRight;
-    animation-delay: 0.2s;
-    -webkit-animation-delay: 0.2s;
-    animation-duration: 1s;
-    -webkit-animation-duration: 1s;
-    animation-iteration-count: 1;
-    -webkit-animation-iteration-count: 1;
-  }
-
-  #LINE188 > .ladi-line {
-    width: 100%;
-    padding: 8px 0px;
   }
 
   #TAB_ITEM187 {
@@ -1663,7 +1478,7 @@
 
   #HEADLINE193 > .ladi-headline {
     font-family: "Intelligent Design - AvertaStdCY-Bold_1.otf";
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
     font-size: 21px;
     text-align: left;
     letter-spacing: 0.5px;
@@ -1682,7 +1497,7 @@
     height: 265px;
     top: 0px;
     left: 0px;
-    background-image: url("https://w.ladicdn.com/s600x600/5c7362c6c417ab07e5196b05/toc-1-20230107081022-xq_mh.png");
+    background-image: url("../images/home/bundle1.png");
   }
 
   #BOX197 {
@@ -1762,7 +1577,7 @@
 
   #HEADLINE201 > .ladi-headline {
     font-family: "Intelligent Design - AvertaStdCY-Bold_1.otf";
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
     font-size: 21px;
     text-align: left;
     letter-spacing: 0.5px;
@@ -1781,7 +1596,7 @@
     height: 265px;
     top: 0px;
     left: 0px;
-    background-image: url("https://w.ladicdn.com/s600x600/5c7362c6c417ab07e5196b05/toc-2-20230107081022-vlhaa.png");
+    background-image: url("../images/home/bundle2.png");
   }
 
   #BOX205 {
@@ -1861,7 +1676,7 @@
 
   #HEADLINE209 > .ladi-headline {
     font-family: "Intelligent Design - AvertaStdCY-Bold_1.otf";
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
     font-size: 21px;
     text-align: left;
     letter-spacing: 0.5px;
@@ -1880,7 +1695,7 @@
     height: 265px;
     top: 0px;
     left: 0px;
-    background-image: url("https://w.ladicdn.com/s600x600/5c7362c6c417ab07e5196b05/toc-3-20230107081022-9sn5b.png");
+    background-image: url("../images/home/bundle3.png");
   }
 
   #BOX213 {
@@ -1960,7 +1775,7 @@
 
   #HEADLINE217 > .ladi-headline {
     font-family: "Intelligent Design - AvertaStdCY-Bold_1.otf";
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
     font-size: 21px;
     text-align: left;
     letter-spacing: 0.5px;
@@ -1979,7 +1794,7 @@
     height: 265px;
     top: 0px;
     left: 0px;
-    background-image: url("https://w.ladicdn.com/s600x600/5c7362c6c417ab07e5196b05/toc-3-20230107081022-9sn5b.png");
+    background-image: url("../images/home/bundle4.png");
   }
 
   #BOX221 {
@@ -2087,47 +1902,18 @@
   }
 
   #HEADLINE226 {
-    width: 301px;
+    width: 1020px;
     top: 0px;
-    left: 447.5px;
+    left: 300px;
   }
 
   #HEADLINE226 > .ladi-headline {
     font-family: "SVN-Arsilon.otf";
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
     font-size: 54.75px;
-    text-align: center;
+    text-align: justify;
     letter-spacing: 1px;
     line-height: 1.6;
-  }
-
-  #LINE229 {
-    width: 487px;
-    top: 0px;
-    left: -1px;
-  }
-
-  #LINE229 > .ladi-line > .ladi-line-container {
-    border-top: 2px solid rgba(96, 96, 96, 0.5);
-    border-right: 2px solid rgba(96, 96, 96, 0.5);
-    border-bottom: 2px solid rgba(96, 96, 96, 0.5);
-    border-left: 0px !important;
-  }
-
-  #LINE229.ladi-animation > .ladi-line {
-    animation-name: fadeInLeft;
-    -webkit-animation-name: fadeInLeft;
-    animation-delay: 0.2s;
-    -webkit-animation-delay: 0.2s;
-    animation-duration: 1s;
-    -webkit-animation-duration: 1s;
-    animation-iteration-count: 1;
-    -webkit-animation-iteration-count: 1;
-  }
-
-  #LINE229 > .ladi-line {
-    width: 100%;
-    padding: 8px 0px;
   }
 
   #TAB_ITEM228 {
@@ -2142,35 +1928,6 @@
     height: 28px;
     top: 42px;
     left: 714px;
-  }
-
-  #LINE232 {
-    width: 472px;
-    top: 0px;
-    left: 2px;
-  }
-
-  #LINE232 > .ladi-line > .ladi-line-container {
-    border-top: 2px solid rgba(96, 96, 96, 0.5);
-    border-right: 2px solid rgba(96, 96, 96, 0.5);
-    border-bottom: 2px solid rgba(96, 96, 96, 0.5);
-    border-left: 0px !important;
-  }
-
-  #LINE232.ladi-animation > .ladi-line {
-    animation-name: fadeInRight;
-    -webkit-animation-name: fadeInRight;
-    animation-delay: 0.2s;
-    -webkit-animation-delay: 0.2s;
-    animation-duration: 1s;
-    -webkit-animation-duration: 1s;
-    animation-iteration-count: 1;
-    -webkit-animation-iteration-count: 1;
-  }
-
-  #LINE232 > .ladi-line {
-    width: 100%;
-    padding: 8px 0px;
   }
 
   #TAB_ITEM231 {
@@ -2215,7 +1972,7 @@
 
   #HEADLINE237 > .ladi-headline {
     font-family: "Intelligent Design - AvertaStdCY-Bold_1.otf";
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
     font-size: 21px;
     text-align: left;
     letter-spacing: 0.5px;
@@ -2234,7 +1991,7 @@
     height: 265px;
     top: 0px;
     left: 0px;
-    background-image: url("https://w.ladicdn.com/s600x600/5c7362c6c417ab07e5196b05/toc-1-20230107081022-xq_mh.png");
+    background-image: url("../images/home/Body-wavy.png");
   }
 
   #BOX241 {
@@ -2314,7 +2071,7 @@
 
   #HEADLINE245 > .ladi-headline {
     font-family: "Intelligent Design - AvertaStdCY-Bold_1.otf";
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
     font-size: 21px;
     text-align: left;
     letter-spacing: 0.5px;
@@ -2333,7 +2090,7 @@
     height: 265px;
     top: 0px;
     left: 0px;
-    background-image: url("https://w.ladicdn.com/s600x600/5c7362c6c417ab07e5196b05/toc-2-20230107081022-vlhaa.png");
+    background-image: url("../images/home/deep-wavy.png");
   }
 
   #BOX249 {
@@ -2413,7 +2170,7 @@
 
   #HEADLINE253 > .ladi-headline {
     font-family: "Intelligent Design - AvertaStdCY-Bold_1.otf";
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
     font-size: 21px;
     text-align: left;
     letter-spacing: 0.5px;
@@ -2432,7 +2189,7 @@
     height: 265px;
     top: 0px;
     left: 0px;
-    background-image: url("https://w.ladicdn.com/s600x600/5c7362c6c417ab07e5196b05/toc-3-20230107081022-9sn5b.png");
+    background-image: url("../images/home/burmese\ curly.png");
   }
 
   #BOX257 {
@@ -2512,7 +2269,7 @@
 
   #HEADLINE261 > .ladi-headline {
     font-family: "Intelligent Design - AvertaStdCY-Bold_1.otf";
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
     font-size: 21px;
     text-align: left;
     letter-spacing: 0.5px;
@@ -2531,7 +2288,7 @@
     height: 265px;
     top: 0px;
     left: 0px;
-    background-image: url("https://w.ladicdn.com/s600x600/5c7362c6c417ab07e5196b05/toc-3-20230107081022-9sn5b.png");
+    background-image: url("../images/home/fumi-curly.png");
   }
 
   #BOX265 {
@@ -2646,7 +2403,7 @@
 
   #HEADLINE270 > .ladi-headline {
     font-family: "SVN-Arsilon.otf";
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
     font-size: 54.75px;
     text-align: center;
     letter-spacing: 1px;
@@ -2767,7 +2524,7 @@
 
   #HEADLINE281 > .ladi-headline {
     font-family: "Intelligent Design - AvertaStdCY-Bold_1.otf";
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
     font-size: 21px;
     text-align: left;
     letter-spacing: 0.5px;
@@ -2866,7 +2623,7 @@
 
   #HEADLINE289 > .ladi-headline {
     font-family: "Intelligent Design - AvertaStdCY-Bold_1.otf";
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
     font-size: 21px;
     text-align: left;
     letter-spacing: 0.5px;
@@ -2965,7 +2722,7 @@
 
   #HEADLINE297 > .ladi-headline {
     font-family: "Intelligent Design - AvertaStdCY-Bold_1.otf";
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
     font-size: 21px;
     text-align: left;
     letter-spacing: 0.5px;
@@ -3064,7 +2821,7 @@
 
   #HEADLINE305 > .ladi-headline {
     font-family: "Intelligent Design - AvertaStdCY-Bold_1.otf";
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
     font-size: 21px;
     text-align: left;
     letter-spacing: 0.5px;
@@ -3198,40 +2955,11 @@
 
   #HEADLINE314 > .ladi-headline {
     font-family: "SVN-Arsilon.otf";
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
     font-size: 54.75px;
     text-align: center;
     letter-spacing: 1px;
     line-height: 1.6;
-  }
-
-  #LINE317 {
-    width: 500px;
-    top: 0px;
-    left: -1px;
-  }
-
-  #LINE317 > .ladi-line > .ladi-line-container {
-    border-top: 2px solid rgba(96, 96, 96, 0.5);
-    border-right: 2px solid rgba(96, 96, 96, 0.5);
-    border-bottom: 2px solid rgba(96, 96, 96, 0.5);
-    border-left: 0px !important;
-  }
-
-  #LINE317.ladi-animation > .ladi-line {
-    animation-name: fadeInLeft;
-    -webkit-animation-name: fadeInLeft;
-    animation-delay: 0.2s;
-    -webkit-animation-delay: 0.2s;
-    animation-duration: 1s;
-    -webkit-animation-duration: 1s;
-    animation-iteration-count: 1;
-    -webkit-animation-iteration-count: 1;
-  }
-
-  #LINE317 > .ladi-line {
-    width: 100%;
-    padding: 8px 0px;
   }
 
   #TAB_ITEM316 {
@@ -3246,35 +2974,6 @@
     height: 28px;
     top: 42px;
     left: 806px;
-  }
-
-  #LINE320 {
-    width: 495px;
-    top: 0px;
-    left: 2px;
-  }
-
-  #LINE320 > .ladi-line > .ladi-line-container {
-    border-top: 2px solid rgba(96, 96, 96, 0.5);
-    border-right: 2px solid rgba(96, 96, 96, 0.5);
-    border-bottom: 2px solid rgba(96, 96, 96, 0.5);
-    border-left: 0px !important;
-  }
-
-  #LINE320.ladi-animation > .ladi-line {
-    animation-name: fadeInRight;
-    -webkit-animation-name: fadeInRight;
-    animation-delay: 0.2s;
-    -webkit-animation-delay: 0.2s;
-    animation-duration: 1s;
-    -webkit-animation-duration: 1s;
-    animation-iteration-count: 1;
-    -webkit-animation-iteration-count: 1;
-  }
-
-  #LINE320 > .ladi-line {
-    width: 100%;
-    padding: 8px 0px;
   }
 
   #TAB_ITEM319 {
@@ -3319,7 +3018,7 @@
 
   #HEADLINE325 > .ladi-headline {
     font-family: "Intelligent Design - AvertaStdCY-Bold_1.otf";
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
     font-size: 21px;
     text-align: left;
     letter-spacing: 0.5px;
@@ -3338,7 +3037,7 @@
     height: 265px;
     top: 0px;
     left: 0px;
-    background-image: url("https://w.ladicdn.com/s600x600/5c7362c6c417ab07e5196b05/toc-1-20230107081022-xq_mh.png");
+    background-image: url("../images/home/2x6.png");
   }
 
   #BOX329 {
@@ -3418,7 +3117,7 @@
 
   #HEADLINE333 > .ladi-headline {
     font-family: "Intelligent Design - AvertaStdCY-Bold_1.otf";
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
     font-size: 21px;
     text-align: left;
     letter-spacing: 0.5px;
@@ -3437,7 +3136,7 @@
     height: 265px;
     top: 0px;
     left: 0px;
-    background-image: url("https://w.ladicdn.com/s600x600/5c7362c6c417ab07e5196b05/toc-2-20230107081022-vlhaa.png");
+    background-image: url("../images/home/4x4.png");
   }
 
   #BOX337 {
@@ -3517,7 +3216,7 @@
 
   #HEADLINE341 > .ladi-headline {
     font-family: "Intelligent Design - AvertaStdCY-Bold_1.otf";
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
     font-size: 21px;
     text-align: left;
     letter-spacing: 0.5px;
@@ -3536,7 +3235,7 @@
     height: 265px;
     top: 0px;
     left: 0px;
-    background-image: url("https://w.ladicdn.com/s600x600/5c7362c6c417ab07e5196b05/toc-3-20230107081022-9sn5b.png");
+    background-image: url("../images/home/5x5.png");
   }
 
   #BOX345 {
@@ -3616,7 +3315,7 @@
 
   #HEADLINE349 > .ladi-headline {
     font-family: "Intelligent Design - AvertaStdCY-Bold_1.otf";
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
     font-size: 21px;
     text-align: left;
     letter-spacing: 0.5px;
@@ -3635,7 +3334,7 @@
     height: 265px;
     top: 0px;
     left: 0px;
-    background-image: url("https://w.ladicdn.com/s600x600/5c7362c6c417ab07e5196b05/toc-3-20230107081022-9sn5b.png");
+    background-image: url("../images/home/13x4.png");
   }
 
   #BOX353 {
@@ -3787,8 +3486,8 @@
   #IMAGE363 {
     width: 469.871px;
     height: 578.882px;
-    top: 216px;
-    left: 435.876px;
+    top: 206px;
+    left: 445.876px;
   }
 
   #IMAGE363 > .ladi-image > .ladi-image-background {
@@ -3796,7 +3495,7 @@
     height: 578.882px;
     top: 0px;
     left: 0px;
-    background-image: url("https://w.ladicdn.com/s800x900/5c7362c6c417ab07e5196b05/nu-tay-agag-20230110033654-ljv2h.png");
+    background-image: url("../images/home/catalog.png");
   }
 
   #IMAGE363 > .ladi-image {
@@ -3805,8 +3504,8 @@
   }
 
   #IMAGE364 {
-    width: 81.3349px;
-    height: 81.3348px;
+    width: 82px;
+    height: 82px;
     top: 216px;
     left: -0.000272px;
   }
@@ -3816,12 +3515,10 @@
     height: 114.61px;
     top: -11.6916px;
     left: -1.7987px;
-    background-image: url("https://w.ladicdn.com/s400x450/5c7362c6c417ab07e5196b05/body-wavy-20230109081835-svcm7.jpeg");
+    background-image: url("../images/home/bodywavy.png");
   }
 
-  #IMAGE364 > .ladi-image {
-    border-radius: 9999px;
-  }
+
 
   #HEADLINE365 {
     width: 61px;
@@ -3831,7 +3528,7 @@
 
   #HEADLINE365 > .ladi-headline {
     font-family: "Intelligent Design - AvertaStdCY-Bold_1.otf";
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
     font-size: 14px;
     text-align: center;
     line-height: 1.2;
@@ -3849,11 +3546,7 @@
     height: 115.51px;
     top: -22.4838px;
     left: -1.7987px;
-    background-image: url("https://w.ladicdn.com/s400x450/5c7362c6c417ab07e5196b05/deep-wavy-1-20230109081837-zigdj.jpeg");
-  }
-
-  #IMAGE368 > .ladi-image {
-    border-radius: 9999px;
+    background-image: url("../images/home/deepwavy1.png");
   }
 
   #HEADLINE369 {
@@ -3864,7 +3557,7 @@
 
   #HEADLINE369 > .ladi-headline {
     font-family: "Intelligent Design - AvertaStdCY-Bold_1.otf";
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
     font-size: 14px;
     text-align: center;
     line-height: 1.2;
@@ -3897,7 +3590,7 @@
 
   #HEADLINE372 > .ladi-headline {
     font-family: "Intelligent Design - AvertaStdCY-Bold_1.otf";
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
     font-size: 14px;
     text-align: center;
     line-height: 1.2;
@@ -3930,7 +3623,7 @@
 
   #HEADLINE375 > .ladi-headline {
     font-family: "Intelligent Design - AvertaStdCY-Bold_1.otf";
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
     font-size: 14px;
     text-align: center;
     line-height: 1.2;
@@ -3946,7 +3639,7 @@
   #BOX376 > .ladi-box {
     background-color: rgba(255, 255, 255, 0);
     border-style: solid;
-    border-color: rgb(205, 19, 119);
+    border-color: rgb(17, 17, 17);
     border-width: 4px;
     border-radius: 15px;
   }
@@ -3963,7 +3656,7 @@
     height: 115.51px;
     top: -17.0877px;
     left: -3.59741px;
-    background-image: url("https://w.ladicdn.com/s400x450/5c7362c6c417ab07e5196b05/bone-straight-20230109081836-ygokj.jpeg");
+    background-image: url("../images/home/bonestraight.png");
   }
 
   #IMAGE378 > .ladi-image {
@@ -3978,7 +3671,7 @@
 
   #HEADLINE379 > .ladi-headline {
     font-family: "Intelligent Design - AvertaStdCY-Bold_1.otf";
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
     font-size: 14px;
     text-align: center;
     line-height: 1.2;
@@ -4011,7 +3704,7 @@
 
   #HEADLINE382 > .ladi-headline {
     font-family: "Intelligent Design - AvertaStdCY-Bold_1.otf";
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
     font-size: 14px;
     text-align: center;
     line-height: 1.2;
@@ -4044,7 +3737,7 @@
 
   #HEADLINE385 > .ladi-headline {
     font-family: "Intelligent Design - AvertaStdCY-Bold_1.otf";
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
     font-size: 14px;
     text-align: center;
     line-height: 1.2;
@@ -4077,7 +3770,7 @@
 
   #HEADLINE388 > .ladi-headline {
     font-family: "Intelligent Design - AvertaStdCY-Bold_1.otf";
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
     font-size: 14px;
     text-align: center;
     line-height: 1.2;
@@ -4110,7 +3803,7 @@
 
   #HEADLINE391 > .ladi-headline {
     font-family: "Intelligent Design - AvertaStdCY-Bold_1.otf";
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
     font-size: 14px;
     text-align: center;
     line-height: 1.2;
@@ -4143,7 +3836,7 @@
 
   #HEADLINE394 > .ladi-headline {
     font-family: "Intelligent Design - AvertaStdCY-Bold_1.otf";
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
     font-size: 14px;
     text-align: center;
     line-height: 1.2;
@@ -4176,7 +3869,7 @@
 
   #HEADLINE397 > .ladi-headline {
     font-family: "Intelligent Design - AvertaStdCY-Bold_1.otf";
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
     font-size: 14px;
     text-align: center;
     line-height: 1.2;
@@ -4209,7 +3902,7 @@
 
   #HEADLINE400 > .ladi-headline {
     font-family: "Intelligent Design - AvertaStdCY-Bold_1.otf";
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
     font-size: 14px;
     text-align: center;
     line-height: 1.2;
@@ -4242,7 +3935,7 @@
 
   #HEADLINE403 > .ladi-headline {
     font-family: "Intelligent Design - AvertaStdCY-Bold_1.otf";
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
     font-size: 14px;
     text-align: center;
     line-height: 1.2;
@@ -4275,7 +3968,7 @@
 
   #HEADLINE406 > .ladi-headline {
     font-family: "Intelligent Design - AvertaStdCY-Bold_1.otf";
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
     font-size: 14px;
     text-align: center;
     line-height: 1.2;
@@ -4308,7 +4001,7 @@
 
   #HEADLINE409 > .ladi-headline {
     font-family: "Intelligent Design - AvertaStdCY-Bold_1.otf";
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
     font-size: 14px;
     text-align: center;
     line-height: 1.2;
@@ -4341,7 +4034,7 @@
 
   #HEADLINE412 > .ladi-headline {
     font-family: "Intelligent Design - AvertaStdCY-Bold_1.otf";
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
     font-size: 14px;
     text-align: center;
     line-height: 1.2;
@@ -4374,7 +4067,7 @@
 
   #HEADLINE415 > .ladi-headline {
     font-family: "Intelligent Design - AvertaStdCY-Bold_1.otf";
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
     font-size: 14px;
     text-align: center;
     line-height: 1.2;
@@ -4407,7 +4100,7 @@
 
   #HEADLINE418 > .ladi-headline {
     font-family: "Intelligent Design - AvertaStdCY-Bold_1.otf";
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
     font-size: 14px;
     text-align: center;
     line-height: 1.2;
@@ -4440,7 +4133,7 @@
 
   #HEADLINE421 > .ladi-headline {
     font-family: "Intelligent Design - AvertaStdCY-Bold_1.otf";
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
     font-size: 14px;
     text-align: center;
     line-height: 1.2;
@@ -4473,7 +4166,7 @@
 
   #HEADLINE424 > .ladi-headline {
     font-family: "Intelligent Design - AvertaStdCY-Bold_1.otf";
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
     font-size: 14px;
     text-align: center;
     line-height: 1.2;
@@ -4506,7 +4199,7 @@
 
   #HEADLINE427 > .ladi-headline {
     font-family: "Intelligent Design - AvertaStdCY-Bold_1.otf";
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
     font-size: 14px;
     text-align: center;
     line-height: 1.2;
@@ -4539,7 +4232,7 @@
 
   #HEADLINE430 > .ladi-headline {
     font-family: "Intelligent Design - AvertaStdCY-Bold_1.otf";
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
     font-size: 14px;
     text-align: center;
     line-height: 1.2;
@@ -4572,7 +4265,7 @@
 
   #HEADLINE433 > .ladi-headline {
     font-family: "Intelligent Design - AvertaStdCY-Bold_1.otf";
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
     font-size: 14px;
     text-align: center;
     line-height: 1.2;
@@ -4605,7 +4298,7 @@
 
   #HEADLINE436 > .ladi-headline {
     font-family: "Intelligent Design - AvertaStdCY-Bold_1.otf";
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
     font-size: 14px;
     text-align: center;
     line-height: 1.2;
@@ -4638,7 +4331,7 @@
 
   #HEADLINE439 > .ladi-headline {
     font-family: "Intelligent Design - AvertaStdCY-Bold_1.otf";
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
     font-size: 14px;
     text-align: center;
     line-height: 1.2;
@@ -4671,7 +4364,7 @@
 
   #HEADLINE442 > .ladi-headline {
     font-family: "Intelligent Design - AvertaStdCY-Bold_1.otf";
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
     font-size: 14px;
     text-align: center;
     line-height: 1.2;
@@ -4687,7 +4380,7 @@
   #BOX443 > .ladi-box {
     background-color: rgba(255, 255, 255, 0);
     border-style: solid;
-    border-color: rgb(205, 19, 119);
+    border-color: rgb(17, 17, 17);
     border-width: 4px;
     border-radius: 15px;
   }
@@ -4715,40 +4408,11 @@
 
   #HEADLINE454 > .ladi-headline {
     font-family: "SVN-Arsilon.otf";
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
     font-size: 54.75px;
     text-align: center;
     letter-spacing: 1px;
     line-height: 1.6;
-  }
-
-  #LINE457 {
-    width: 520px;
-    top: 3px;
-    left: -1px;
-  }
-
-  #LINE457 > .ladi-line > .ladi-line-container {
-    border-top: 2px solid rgba(96, 96, 96, 0.5);
-    border-right: 2px solid rgba(96, 96, 96, 0.5);
-    border-bottom: 2px solid rgba(96, 96, 96, 0.5);
-    border-left: 0px !important;
-  }
-
-  #LINE457.ladi-animation > .ladi-line {
-    animation-name: fadeInLeft;
-    -webkit-animation-name: fadeInLeft;
-    animation-delay: 0.2s;
-    -webkit-animation-delay: 0.2s;
-    animation-duration: 1s;
-    -webkit-animation-duration: 1s;
-    animation-iteration-count: 1;
-    -webkit-animation-iteration-count: 1;
-  }
-
-  #LINE457 > .ladi-line {
-    width: 100%;
-    padding: 8px 0px;
   }
 
   #TAB_ITEM456 {
@@ -4763,35 +4427,6 @@
     height: 28px;
     top: 38px;
     left: 723px;
-  }
-
-  #LINE460 {
-    width: 511px;
-    top: 0px;
-    left: 2px;
-  }
-
-  #LINE460 > .ladi-line > .ladi-line-container {
-    border-top: 2px solid rgba(96, 96, 96, 0.5);
-    border-right: 2px solid rgba(96, 96, 96, 0.5);
-    border-bottom: 2px solid rgba(96, 96, 96, 0.5);
-    border-left: 0px !important;
-  }
-
-  #LINE460.ladi-animation > .ladi-line {
-    animation-name: fadeInRight;
-    -webkit-animation-name: fadeInRight;
-    animation-delay: 0.2s;
-    -webkit-animation-delay: 0.2s;
-    animation-duration: 1s;
-    -webkit-animation-duration: 1s;
-    animation-iteration-count: 1;
-    -webkit-animation-iteration-count: 1;
-  }
-
-  #LINE460 > .ladi-line {
-    width: 100%;
-    padding: 8px 0px;
   }
 
   #TAB_ITEM459 {
@@ -5175,7 +4810,7 @@
     height: 225.649px;
     top: 0px;
     left: 0px;
-    background-image: url("https://w.ladicdn.com/s450x550/5c7362c6c417ab07e5196b05/insta-4-20230109013710-pubno.png");
+    background-image: url("../images/home/insta4.png");
   }
 
   #IMAGE502 > .ladi-image {
@@ -5224,7 +4859,7 @@
     height: 225.649px;
     top: 0px;
     left: 0px;
-    background-image: url("https://w.ladicdn.com/s450x550/5c7362c6c417ab07e5196b05/insta-3-20230109013710-3xbcp.png");
+    background-image: url("../images/home/insta3.png");
   }
 
   #IMAGE506 > .ladi-image {
@@ -5273,7 +4908,7 @@
     height: 225.649px;
     top: 0px;
     left: 0px;
-    background-image: url("https://w.ladicdn.com/s450x550/5c7362c6c417ab07e5196b05/insta-2-20230109013710-s3yzl.png");
+    background-image: url("../images/home/insta2.png");
   }
 
   #IMAGE512 > .ladi-image {
@@ -5322,7 +4957,7 @@
     height: 225.649px;
     top: 0px;
     left: 0px;
-    background-image: url("https://w.ladicdn.com/s450x550/5c7362c6c417ab07e5196b05/insta-20230109013710-bhtzh.png");
+    background-image: url("../images/home/insta1.png");
   }
 
   #IMAGE515 > .ladi-image {
@@ -5370,7 +5005,7 @@
   }
 
   #BOX517 > .ladi-box {
-    background-color: rgb(205, 19, 119);
+    background-color: rgb(17, 17, 17);
     border-radius: 28px;
   }
 
@@ -5395,7 +5030,7 @@
   }
 
   #HEADLINE519 > .ladi-headline:hover {
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
   }
 
   #GROUP520 {
@@ -5480,7 +5115,7 @@
   }
 
   #BOX526 > .ladi-box {
-    background-color: rgb(205, 19, 119);
+    background-color: rgb(17, 17, 17);
     border-radius: 0px 0px 7px 7px;
   }
 
@@ -5564,7 +5199,7 @@
   }
 
   #BOX538 > .ladi-box {
-    background-color: rgb(205, 19, 119);
+    background-color: rgb(17, 17, 17);
     border-radius: 999px;
   }
 
@@ -5686,7 +5321,7 @@
   }
 
   #BOX549 > .ladi-box {
-    background-color: rgb(205, 19, 119);
+    background-color: rgb(17, 17, 17);
     border-radius: 0px 0px 7px 7px;
   }
 
@@ -5818,7 +5453,7 @@
   }
 
   #BOX559 > .ladi-box {
-    background-color: rgb(205, 19, 119);
+    background-color: rgb(17, 17, 17);
     border-radius: 0px 0px 7px 7px;
   }
 
@@ -5950,7 +5585,7 @@
   }
 
   #BOX569 > .ladi-box {
-    background-color: rgb(205, 19, 119);
+    background-color: rgb(17, 17, 17);
     border-radius: 0px 0px 7px 7px;
   }
 
@@ -6082,7 +5717,7 @@
   }
 
   #BOX579 > .ladi-box {
-    background-color: rgb(205, 19, 119);
+    background-color: rgb(17, 17, 17);
     border-radius: 0px 0px 7px 7px;
   }
 
@@ -6214,7 +5849,7 @@
   }
 
   #BOX589 > .ladi-box {
-    background-color: rgb(205, 19, 119);
+    background-color: rgb(17, 17, 17);
     border-radius: 0px 0px 7px 7px;
   }
 
@@ -6346,7 +5981,7 @@
   }
 
   #BOX599 > .ladi-box {
-    background-color: rgb(205, 19, 119);
+    background-color: rgb(17, 17, 17);
     border-radius: 0px 0px 7px 7px;
   }
 
@@ -6478,7 +6113,7 @@
   }
 
   #BOX609 > .ladi-box {
-    background-color: rgb(205, 19, 119);
+    background-color: rgb(17, 17, 17);
     border-radius: 0px 0px 7px 7px;
   }
 
@@ -6555,7 +6190,7 @@
   }
 
   #BOX615 > .ladi-box {
-    background-color: rgb(205, 19, 119);
+    background-color: rgb(17, 17, 17);
     border-radius: 999px;
   }
 
@@ -6622,7 +6257,7 @@
   }
 
   #BOX621 > .ladi-box {
-    background-color: rgb(205, 19, 119);
+    background-color: rgb(17, 17, 17);
     border-radius: 999px;
   }
 
@@ -6689,7 +6324,7 @@
   }
 
   #BOX627 > .ladi-box {
-    background-color: rgb(205, 19, 119);
+    background-color: rgb(17, 17, 17);
     border-radius: 999px;
   }
 
@@ -6738,7 +6373,7 @@
 
   #HEADLINE630 > .ladi-headline {
     font-family: "SVN-Arsilon.otf";
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
     font-size: 50px;
     text-align: center;
     letter-spacing: 1px;
@@ -6753,7 +6388,7 @@
 
   #HEADLINE631 > .ladi-headline {
     font-family: "SVN-Arsilon.otf";
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
     font-size: 50px;
     text-align: center;
     letter-spacing: 1px;
@@ -6768,7 +6403,7 @@
 
   #HEADLINE633 > .ladi-headline {
     font-family: "SVN-Arsilon.otf";
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
     font-size: 54.75px;
     text-align: center;
     letter-spacing: 1px;
@@ -6909,7 +6544,7 @@
   }
 
   #SHAPE643 svg:last-child {
-    fill: rgb(205, 19, 119);
+    fill: rgb(17, 17, 17);
   }
 
   #HEADLINE644 {
@@ -6926,7 +6561,7 @@
   }
 
   #HEADLINE644 > .ladi-headline:hover {
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
   }
 
   #IMAGE645 {
@@ -7033,7 +6668,7 @@
   }
 
   #HEADLINE663 > .ladi-headline:hover {
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
   }
 
   #IMAGE664 {
@@ -7077,7 +6712,7 @@
   }
 
   #SHAPE666 svg:last-child {
-    fill: rgb(205, 19, 119);
+    fill: rgb(17, 17, 17);
   }
 
   #IMAGE667 {
@@ -7173,7 +6808,7 @@
   }
 
   #HEADLINE671 > .ladi-headline:hover {
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
   }
 
   #IMAGE672 {
@@ -7217,7 +6852,7 @@
   }
 
   #SHAPE674 svg:last-child {
-    fill: rgb(205, 19, 119);
+    fill: rgb(17, 17, 17);
   }
 
   #IMAGE675 {
@@ -7313,7 +6948,7 @@
   }
 
   #HEADLINE679 > .ladi-headline:hover {
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
   }
 
   #IMAGE680 {
@@ -7357,7 +6992,7 @@
   }
 
   #SHAPE682 svg:last-child {
-    fill: rgb(205, 19, 119);
+    fill: rgb(17, 17, 17);
   }
 
   #IMAGE683 {
@@ -7483,7 +7118,7 @@
   }
 
   #HEADLINE694 > .ladi-headline:hover {
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
   }
 
   #IMAGE695 {
@@ -7527,7 +7162,7 @@
   }
 
   #SHAPE697 svg:last-child {
-    fill: rgb(205, 19, 119);
+    fill: rgb(17, 17, 17);
   }
 
   #IMAGE698 {
@@ -7623,7 +7258,7 @@
   }
 
   #HEADLINE702 > .ladi-headline:hover {
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
   }
 
   #IMAGE703 {
@@ -7667,7 +7302,7 @@
   }
 
   #SHAPE705 svg:last-child {
-    fill: rgb(205, 19, 119);
+    fill: rgb(17, 17, 17);
   }
 
   #IMAGE706 {
@@ -7763,7 +7398,7 @@
   }
 
   #HEADLINE710 > .ladi-headline:hover {
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
   }
 
   #IMAGE711 {
@@ -7807,7 +7442,7 @@
   }
 
   #SHAPE713 svg:last-child {
-    fill: rgb(205, 19, 119);
+    fill: rgb(17, 17, 17);
   }
 
   #IMAGE714 {
@@ -7903,7 +7538,7 @@
   }
 
   #HEADLINE718 > .ladi-headline:hover {
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
   }
 
   #IMAGE719 {
@@ -7947,7 +7582,7 @@
   }
 
   #SHAPE721 svg:last-child {
-    fill: rgb(205, 19, 119);
+    fill: rgb(17, 17, 17);
   }
 
   #IMAGE722 {
@@ -8043,7 +7678,7 @@
   }
 
   #HEADLINE730 > .ladi-headline:hover {
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
   }
 
   #IMAGE731 {
@@ -8087,7 +7722,7 @@
   }
 
   #SHAPE733 svg:last-child {
-    fill: rgb(205, 19, 119);
+    fill: rgb(17, 17, 17);
   }
 
   #IMAGE734 {
@@ -8183,7 +7818,7 @@
   }
 
   #HEADLINE738 > .ladi-headline:hover {
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
   }
 
   #IMAGE739 {
@@ -8227,7 +7862,7 @@
   }
 
   #SHAPE741 svg:last-child {
-    fill: rgb(205, 19, 119);
+    fill: rgb(17, 17, 17);
   }
 
   #IMAGE742 {
@@ -8323,7 +7958,7 @@
   }
 
   #HEADLINE746 > .ladi-headline:hover {
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
   }
 
   #IMAGE747 {
@@ -8367,7 +8002,7 @@
   }
 
   #SHAPE749 svg:last-child {
-    fill: rgb(205, 19, 119);
+    fill: rgb(17, 17, 17);
   }
 
   #IMAGE750 {
@@ -8463,7 +8098,7 @@
   }
 
   #HEADLINE754 > .ladi-headline:hover {
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
   }
 
   #IMAGE755 {
@@ -8507,7 +8142,7 @@
   }
 
   #SHAPE757 svg:last-child {
-    fill: rgb(205, 19, 119);
+    fill: rgb(17, 17, 17);
   }
 
   #IMAGE758 {
@@ -8673,7 +8308,7 @@
   }
 
   #HEADLINE770 > .ladi-headline {
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
     font-size: 18px;
     text-align: left;
     line-height: 1.4;
@@ -9174,7 +8809,7 @@
 
   #HEADLINE803 > .ladi-headline {
     font-family: "SVN-Arsilon.otf";
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
     font-size: 54.75px;
     text-align: center;
     letter-spacing: 1px;
@@ -9217,7 +8852,7 @@
 
   #HEADLINE806 > .ladi-headline {
     font-family: "Intelligent Design - AvertaStdCY-Bold_1.otf";
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
     font-size: 12.23px;
     text-align: center;
     line-height: 1.6;
@@ -9318,7 +8953,7 @@
 
   #HEADLINE815 > .ladi-headline {
     font-family: "Intelligent Design - AvertaStdCY-Bold_1.otf";
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
     font-size: 12.23px;
     text-align: center;
     line-height: 1.6;
@@ -9351,7 +8986,7 @@
 
   #HEADLINE818 > .ladi-headline {
     font-family: "Intelligent Design - AvertaStdCY-Bold_1.otf";
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
     font-size: 12.23px;
     text-align: center;
     line-height: 1.6;
@@ -9384,7 +9019,7 @@
 
   #HEADLINE821 > .ladi-headline {
     font-family: "Intelligent Design - AvertaStdCY-Bold_1.otf";
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
     font-size: 12.23px;
     text-align: center;
     line-height: 1.6;
@@ -9417,7 +9052,7 @@
 
   #HEADLINE824 > .ladi-headline {
     font-family: "Intelligent Design - AvertaStdCY-Bold_1.otf";
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
     font-size: 12.23px;
     text-align: center;
     line-height: 1.6;
@@ -9453,7 +9088,7 @@
 
   #HEADLINE826 > .ladi-headline {
     font-family: "Intelligent Design - AvertaStdCY-Bold_1.otf";
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
     font-size: 17.15px;
     text-align: center;
     line-height: 1.6;
@@ -9581,7 +9216,7 @@
   }
 
   #HEADLINE960 > .ladi-headline:hover {
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
   }
 
   #HEADLINE961 {
@@ -9600,7 +9235,7 @@
   }
 
   #HEADLINE961 > .ladi-headline:hover {
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
   }
 
   #HEADLINE962 {
@@ -9619,7 +9254,7 @@
   }
 
   #HEADLINE962 > .ladi-headline:hover {
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
   }
 
   #HEADLINE963 {
@@ -9638,7 +9273,7 @@
   }
 
   #HEADLINE963 > .ladi-headline:hover {
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
   }
 
   #HEADLINE964 {
@@ -9657,7 +9292,7 @@
   }
 
   #HEADLINE964 > .ladi-headline:hover {
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
   }
 
   #HEADLINE965 {
@@ -9676,7 +9311,7 @@
   }
 
   #HEADLINE965 > .ladi-headline:hover {
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
   }
 
   #HEADLINE966 {
@@ -9695,7 +9330,7 @@
   }
 
   #HEADLINE966 > .ladi-headline:hover {
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
   }
 
   #SHAPE967 {
@@ -9706,7 +9341,7 @@
   }
 
   #SHAPE967:hover > .ladi-shape svg:last-child {
-    fill: rgb(205, 19, 119);
+    fill: rgb(17, 17, 17);
   }
 
   #SHAPE967 svg:last-child {
@@ -9721,7 +9356,7 @@
   }
 
   #BOX1056 > .ladi-box {
-    background-color: rgb(205, 19, 119);
+    background-color: rgb(17, 17, 17);
     border-radius: 999px;
   }
 
@@ -9788,7 +9423,7 @@
   }
 
   #BOX1062 > .ladi-box {
-    background-color: rgb(205, 19, 119);
+    background-color: rgb(17, 17, 17);
     border-radius: 999px;
   }
 
@@ -9855,7 +9490,7 @@
   }
 
   #BOX1068 > .ladi-box {
-    background-color: rgb(205, 19, 119);
+    background-color: rgb(17, 17, 17);
     border-radius: 999px;
   }
 
@@ -9922,7 +9557,7 @@
   }
 
   #BOX1074 > .ladi-box {
-    background-color: rgb(205, 19, 119);
+    background-color: rgb(17, 17, 17);
     border-radius: 999px;
   }
 
@@ -9956,7 +9591,7 @@
     height: 370px;
     top: 0px;
     left: 0px;
-    background-image: url("https://w.ladicdn.com/s700x700/5c7362c6c417ab07e5196b05/whatsapp-image-2022-12-14-at-134038-2-20230109085634-xnyad.jpeg");
+    background-image: url("../images/home/wsap1.png");
   }
 
   #IMAGE1076 {
@@ -9971,7 +9606,7 @@
     height: 370px;
     top: 0px;
     left: 0px;
-    background-image: url("https://w.ladicdn.com/s700x700/5c7362c6c417ab07e5196b05/whatsapp-image-2022-12-14-at-134038-1-20230109085634-fodrp.jpeg");
+    background-image: url("../images/home/wsap2.png");
   }
 
   #IMAGE1077 {
@@ -9986,7 +9621,7 @@
     height: 370px;
     top: 0px;
     left: 0px;
-    background-image: url("https://w.ladicdn.com/s700x700/5c7362c6c417ab07e5196b05/whatsapp-image-2022-12-14-at-134037-20230109085634-efnhr.jpeg");
+    background-image: url("../images/home/wsap3.png");
   }
 
   #IMAGE1078 {
@@ -10001,7 +9636,7 @@
     height: 370px;
     top: 0px;
     left: 0px;
-    background-image: url("https://w.ladicdn.com/s700x700/5c7362c6c417ab07e5196b05/whatsapp-image-2022-12-14-at-134037-2-20230109085634-xcx1a.jpeg");
+    background-image: url("../images/home/wsap4.png");
   }
 
   #GROUP1079 {
@@ -10019,7 +9654,7 @@
   }
 
   #BOX1142 > .ladi-box {
-    background-color: rgb(205, 19, 119);
+    background-color: rgb(17, 17, 17);
     border-radius: 0px;
   }
 
@@ -10127,7 +9762,7 @@
 
   #HEADLINE1145 > .ladi-headline {
     font-family: "Intelligent Design - AvertaStdCY-Bold_1.otf";
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
     font-size: 30px;
     text-align: left;
     line-height: 1.6;
@@ -12501,7 +12136,7 @@
   }
 
   #BUTTON1151 > .ladi-button > .ladi-button-background {
-    background-color: rgb(205, 19, 119);
+    background-color: rgb(17, 17, 17);
   }
 
   #BUTTON1151.ladi-animation > .ladi-button {
@@ -12516,7 +12151,7 @@
   }
 
   #BUTTON1151 > .ladi-button:hover .ladi-headline {
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
   }
 
   #BUTTON1151 > .ladi-button:hover .ladi-button-background {
@@ -12784,7 +12419,7 @@
     height: 472.969px;
     top: 0px;
     left: 0px;
-    background-image: url("https://w.ladicdn.com/s1050x800/5c7362c6c417ab07e5196b05/nguoi-a-20230109041519-bin_y.png");
+    background-image: url("../images/home/home-1.png");
   }
 
   #IMAGE1354 {
@@ -13268,7 +12903,7 @@
     width: 294.825px;
     height: 297.184px;
     top: 212.948px;
-    left: 516.873px;
+    left: 600px;
   }
 
   #IMAGE1385 > .ladi-image > .ladi-image-background {
@@ -13291,7 +12926,7 @@
     height: 491.132px;
     top: 0px;
     left: 0px;
-    background-image: url("https://w.ladicdn.com/s750x800/5c7362c6c417ab07e5196b05/nu-tay-2-20230109062715-66dmm.png");
+    background-image: url("../images/home/home-2.png");
   }
 
   #IMAGE1386 > .ladi-image {
@@ -13314,26 +12949,11 @@
     background-image: url("https://w.ladicdn.com/s400x400/5c7362c6c417ab07e5196b05/bawgn-ron-23-20230109062659-5uzap.png");
   }
 
-  #IMAGE1388 {
-    width: 344.608px;
-    height: 351.5px;
-    top: 221.555px;
-    left: 258.17px;
-  }
-
-  #IMAGE1388 > .ladi-image > .ladi-image-background {
-    width: 344.608px;
-    height: 351.5px;
-    top: 0px;
-    left: 0px;
-    background-image: url("https://w.ladicdn.com/s650x700/5c7362c6c417ab07e5196b05/anh-2-20230109062659-gvpui.png");
-  }
-
   #IMAGE1389 {
     width: 316.661px;
     height: 321.728px;
     top: 244.327px;
-    left: 0px;
+    left: -100px;
   }
 
   #IMAGE1389 > .ladi-image > .ladi-image-background {
@@ -13882,7 +13502,7 @@
     transform: rotate(-9deg);
     -webkit-transform: rotate(-9deg);
     font-family: "SVN-Arsilon.otf";
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
     font-size: 100px;
     text-align: left;
     line-height: 1.6;
@@ -13898,7 +13518,7 @@
     transform: rotate(-9deg);
     -webkit-transform: rotate(-9deg);
     font-family: "SVN-Arsilon.otf";
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
     font-size: 100px;
     text-align: left;
     line-height: 1.6;
@@ -13914,7 +13534,7 @@
     transform: rotate(-9deg);
     -webkit-transform: rotate(-9deg);
     font-family: "SVN-Arsilon.otf";
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
     font-size: 100px;
     text-align: left;
     line-height: 1.6;
@@ -14192,7 +13812,7 @@
   }
 
   #HEADLINE1442 > .ladi-headline:hover {
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
   }
 
   #HEADLINE1443 {
@@ -14211,7 +13831,7 @@
   }
 
   #HEADLINE1443 > .ladi-headline:hover {
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
   }
 
   #HEADLINE1444 {
@@ -14230,7 +13850,7 @@
   }
 
   #HEADLINE1444 > .ladi-headline:hover {
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
   }
 
   #HEADLINE1445 {
@@ -14249,7 +13869,7 @@
   }
 
   #HEADLINE1445 > .ladi-headline:hover {
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
   }
 
   #HEADLINE1447 {
@@ -14268,7 +13888,7 @@
   }
 
   #HEADLINE1447 > .ladi-headline:hover {
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
   }
 
   #SECTION1449 {
@@ -14390,7 +14010,7 @@
   }
 
   #SHAPE1457:hover > .ladi-shape svg:last-child {
-    fill: rgb(205, 19, 119);
+    fill: rgb(17, 17, 17);
   }
 
   #SHAPE1457 svg:last-child {
@@ -14691,7 +14311,7 @@
   }
 
   #HEADLINE1483 > .ladi-headline:hover {
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
   }
 
   #IMAGE1484 {
@@ -14735,7 +14355,7 @@
   }
 
   #SHAPE1486 svg:last-child {
-    fill: rgb(205, 19, 119);
+    fill: rgb(17, 17, 17);
   }
 
   #IMAGE1487 {
@@ -14810,13 +14430,6 @@
     -webkit-transform: scale(0.8);
   }
 
-  #GROUP1482 {
-    width: 200px;
-    height: 299.2px;
-    top: 15.162px;
-    left: 3140px;
-  }
-
   #HEADLINE1491 {
     width: 200px;
     top: 234.9px;
@@ -14831,7 +14444,7 @@
   }
 
   #HEADLINE1491 > .ladi-headline:hover {
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
   }
 
   #IMAGE1492 {
@@ -14875,7 +14488,7 @@
   }
 
   #SHAPE1494 svg:last-child {
-    fill: rgb(205, 19, 119);
+    fill: rgb(17, 17, 17);
   }
 
   #IMAGE1495 {
@@ -14950,14 +14563,7 @@
     -webkit-transform: scale(0.8);
   }
 
-  #GROUP1490 {
-    width: 200px;
-    height: 299.2px;
-    top: 15.162px;
-    left: 3380px;
-  }
-
-  #BOX1499 {
+   #BOX1499 {
     width: 15.2004px;
     height: 15.2004px;
     top: 0px;
@@ -14965,7 +14571,7 @@
   }
 
   #BOX1499 > .ladi-box {
-    background-color: rgb(205, 19, 119);
+    background-color: rgb(17, 17, 17);
     border-radius: 999px;
   }
 
@@ -14989,18 +14595,6 @@
   }
 
   #BOX1501 > .ladi-box {
-    background-color: rgba(205, 19, 119, 0.3);
-    border-radius: 999px;
-  }
-
-  #BOX1502 {
-    width: 15.2004px;
-    height: 15.2004px;
-    top: 0px;
-    left: 57.5444px;
-  }
-
-  #BOX1502 > .ladi-box {
     background-color: rgba(205, 19, 119, 0.3);
     border-radius: 999px;
   }
@@ -15032,7 +14626,7 @@
   }
 
   #BOX1505 > .ladi-box {
-    background-color: rgb(205, 19, 119);
+    background-color: rgb(17, 17, 17);
     border-radius: 999px;
   }
 
@@ -15099,7 +14693,7 @@
   }
 
   #BOX1511 > .ladi-box {
-    background-color: rgb(205, 19, 119);
+    background-color: rgb(17, 17, 17);
     border-radius: 999px;
   }
 
@@ -15166,7 +14760,7 @@
   }
 
   #BOX1517 > .ladi-box {
-    background-color: rgb(205, 19, 119);
+    background-color: rgb(17, 17, 17);
     border-radius: 999px;
   }
 
@@ -15204,23 +14798,19 @@
     line-height: 1.4;
   }
 
-  #LINE1520 {
-    width: 35px;
+  #HEADLINE1520 {
+    width: 350px;
     top: 104px;
     left: 0px;
   }
 
-  #LINE1520 > .ladi-line > .ladi-line-container {
-    border-top: 2px solid rgb(205, 19, 119);
-    border-right: 2px solid rgb(205, 19, 119);
-    border-bottom: 2px solid rgb(205, 19, 119);
-    border-left: 0px !important;
+  #HEADLINE1520 > .ladi-headline {
+    color: rgb(255, 255, 255);
+    font-size: 17px;
+    text-align: justify;
+    line-height: 1.4;
   }
 
-  #LINE1520 > .ladi-line {
-    width: 100%;
-    padding: 8px 0px;
-  }
 
   #HEADLINE1521 {
     width: 397px;
@@ -15305,9 +14895,9 @@
   }
 
   #LINE1526 > .ladi-line > .ladi-line-container {
-    border-top: 2px solid rgb(205, 19, 119);
-    border-right: 2px solid rgb(205, 19, 119);
-    border-bottom: 2px solid rgb(205, 19, 119);
+    border-top: 2px solid rgb(17, 17, 17);
+    border-right: 2px solid rgb(17, 17, 17);
+    border-bottom: 2px solid rgb(17, 17, 17);
     border-left: 0px !important;
   }
 
@@ -15455,7 +15045,7 @@
   }
 
   #BUTTON1536 > .ladi-button:hover .ladi-headline {
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
   }
 
   #BUTTON1536 > .ladi-button:hover .ladi-button-background {
@@ -15622,7 +15212,7 @@
     width: 20.8088px;
     height: 25.687px;
     top: 575.689px;
-    left: 2763.95px;
+    left: 2750px;
   }
 
   #SHAPE1550:hover > .ladi-shape svg:last-child {
@@ -15652,7 +15242,7 @@
     width: 21.9185px;
     height: 23.1917px;
     top: 576.937px;
-    left: 3130.42px;
+    left: 3230px;
   }
 
   #SHAPE1552:hover > .ladi-shape svg:last-child {
@@ -15679,7 +15269,7 @@
   }
 
   #HEADLINE1556 > .ladi-headline:hover {
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
   }
 
   #HEADLINE1557 {
@@ -15698,7 +15288,7 @@
   }
 
   #HEADLINE1557 > .ladi-headline:hover {
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
   }
 
   #HEADLINE1558 {
@@ -15717,7 +15307,7 @@
   }
 
   #HEADLINE1558 > .ladi-headline:hover {
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
   }
 
   #HEADLINE1560 {
@@ -15736,7 +15326,7 @@
   }
 
   #HEADLINE1560 > .ladi-headline:hover {
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
   }
 
   #GROUP1561 {
@@ -15787,7 +15377,7 @@
 
   #HEADLINE1566 > .ladi-headline {
     font-family: "Intelligent Design - AvertaStdCY-Bold_1.otf";
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
     font-size: 14px;
     text-align: center;
     line-height: 1.2;
@@ -15827,7 +15417,7 @@
 
   #HEADLINE1569 > .ladi-headline {
     font-family: "Intelligent Design - AvertaStdCY-Bold_1.otf";
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
     font-size: 14px;
     text-align: center;
     line-height: 1.2;
@@ -15870,7 +15460,7 @@
   }
 
   #HEADLINE1572 > .ladi-headline:hover {
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
   }
 
   #HEADLINE1573 {
@@ -15889,7 +15479,7 @@
   }
 
   #HEADLINE1573 > .ladi-headline:hover {
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
   }
 
   #DROPBOX1574 {
@@ -15939,7 +15529,7 @@
   }
 
   #HEADLINE1577 > .ladi-headline:hover {
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
   }
 
   #HEADLINE1578 {
@@ -16330,7 +15920,7 @@
   }
 
   #HEADLINE1604 > .ladi-headline:hover {
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
   }
 
   #HEADLINE1605 {
@@ -16349,7 +15939,7 @@
   }
 
   #HEADLINE1605 > .ladi-headline:hover {
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
   }
 
   #HEADLINE1606 {
@@ -16368,7 +15958,7 @@
   }
 
   #HEADLINE1606 > .ladi-headline:hover {
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
   }
 
   #HEADLINE1607 {
@@ -16387,7 +15977,7 @@
   }
 
   #HEADLINE1607 > .ladi-headline:hover {
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
   }
 
   #HEADLINE1608 {
@@ -16406,7 +15996,7 @@
   }
 
   #HEADLINE1608 > .ladi-headline:hover {
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
   }
 
   #HEADLINE1609 {
@@ -16425,7 +16015,7 @@
   }
 
   #HEADLINE1609 > .ladi-headline:hover {
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
   }
 
   #DROPBOX1603 {
@@ -16847,7 +16437,7 @@
   }
 
   #HEADLINE1637 > .ladi-headline:hover {
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
   }
 
   #SHAPE1638 {
@@ -16892,7 +16482,7 @@
   #HEADLINE1640 {
     width: 90px;
     top: 577.533px;
-    left: 2794.99px;
+    left: 2780px;
   }
 
   #HEADLINE1640 > .ladi-headline {
@@ -16907,9 +16497,9 @@
   }
 
   #HEADLINE1641 {
-    width: 80px;
+    width: 200px;
     top: 577.533px;
-    left: 2980.81px;
+    left: 2978.67px;
   }
 
   #HEADLINE1641 > .ladi-headline {
@@ -16924,9 +16514,9 @@
   }
 
   #HEADLINE1643 {
-    width: 123px;
+    width: 200px;
     top: 577.533px;
-    left: 3161.67px;
+    left: 3260px;
   }
 
   #HEADLINE1643 > .ladi-headline {
@@ -16988,7 +16578,7 @@
   }
 
   #HEADLINE1647 > .ladi-headline:hover {
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
   }
 
   #HEADLINE1648 {
@@ -17007,7 +16597,7 @@
   }
 
   #HEADLINE1648 > .ladi-headline:hover {
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
   }
 
   #HEADLINE1649 {
@@ -17026,7 +16616,7 @@
   }
 
   #HEADLINE1649 > .ladi-headline:hover {
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
   }
 
   #HEADLINE1650 {
@@ -17045,7 +16635,7 @@
   }
 
   #HEADLINE1650 > .ladi-headline:hover {
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
   }
 
   #HEADLINE1651 {
@@ -17064,7 +16654,7 @@
   }
 
   #HEADLINE1651 > .ladi-headline:hover {
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
   }
 
   #HEADLINE1652 {
@@ -17083,7 +16673,7 @@
   }
 
   #HEADLINE1652 > .ladi-headline:hover {
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
   }
 
   #GROUP1646 {
@@ -17109,7 +16699,7 @@
   }
 
   #HEADLINE1653 > .ladi-headline:hover {
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
   }
 
   #HEADLINE1658 {
@@ -17128,7 +16718,7 @@
   }
 
   #HEADLINE1658 > .ladi-headline:hover {
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
   }
 
   #HEADLINE1659 {
@@ -17147,7 +16737,7 @@
   }
 
   #HEADLINE1659 > .ladi-headline:hover {
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
   }
 
   #HEADLINE1660 {
@@ -17166,7 +16756,7 @@
   }
 
   #HEADLINE1660 > .ladi-headline:hover {
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
   }
 
   #GROUP1656 {
@@ -17254,7 +16844,7 @@
   }
 
   #SECTION13 > .ladi-section-background {
-    background-color: rgb(205, 19, 119);
+    background-color: rgb(17, 17, 17);
   }
 
   #SECTION13 .ladi-section-arrow-down {
@@ -17332,7 +16922,7 @@
   }
 
   #SHAPE28:hover > .ladi-shape svg:last-child {
-    fill: rgb(205, 19, 119);
+    fill: rgb(17, 17, 17);
   }
 
   #SHAPE28 svg:last-child {
@@ -17384,7 +16974,7 @@
 
   #HEADLINE45 > .ladi-headline {
     font-family: "SVN-Arsilon.otf";
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
     font-size: 40px;
     text-align: left;
     letter-spacing: 2px;
@@ -17418,8 +17008,8 @@
   }
 
   #HEADLINE47 {
-    width: 380px;
-    top: 287.942px;
+    width: 600px;
+    top: 150px;
     left: 20px;
   }
 
@@ -17442,8 +17032,8 @@
   }
 
   #HEADLINE48 {
-    width: 380px;
-    top: 387.942px;
+    width: 600px;
+    top: 420px;
     left: 20px;
   }
 
@@ -17466,8 +17056,8 @@
   }
 
   #HEADLINE49 {
-    width: 380px;
-    top: 507.942px;
+    width: 600px;
+    top: 450px;
     left: 20px;
   }
 
@@ -17631,43 +17221,14 @@
 
   #HEADLINE60 > .ladi-headline {
     font-family: "SVN-Arsilon.otf";
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
     font-size: 36px;
     text-align: center;
     letter-spacing: 1px;
     line-height: 1.6;
   }
 
-  #LINE62 {
-    width: 120px;
-    top: 3.5px;
-    left: 0px;
-  }
-
-  #LINE62 > .ladi-line > .ladi-line-container {
-    border-top: 2px solid rgba(96, 96, 96, 0.5);
-    border-right: 2px solid rgba(96, 96, 96, 0.5);
-    border-bottom: 2px solid rgba(96, 96, 96, 0.5);
-    border-left: 0px !important;
-  }
-
-  #LINE62.ladi-animation > .ladi-line {
-    animation-name: fadeInLeft;
-    -webkit-animation-name: fadeInLeft;
-    animation-delay: 0.2s;
-    -webkit-animation-delay: 0.2s;
-    animation-duration: 1s;
-    -webkit-animation-duration: 1s;
-    animation-iteration-count: 1;
-    -webkit-animation-iteration-count: 1;
-  }
-
-  #LINE62 > .ladi-line {
-    width: 100%;
-    padding: 8px 0px;
-  }
-
-  #IMAGE64 {
+   #IMAGE64 {
     width: 265px;
     height: 265px;
     top: 0px;
@@ -17703,7 +17264,7 @@
 
   #HEADLINE66 > .ladi-headline {
     font-family: "Intelligent Design - AvertaStdCY-Bold_1.otf";
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
     font-size: 21px;
     text-align: center;
     letter-spacing: 0.5px;
@@ -17828,7 +17389,7 @@
 
   #HEADLINE98 > .ladi-headline {
     font-family: "Intelligent Design - AvertaStdCY-Bold_1.otf";
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
     font-size: 21px;
     text-align: center;
     letter-spacing: 0.5px;
@@ -17927,7 +17488,7 @@
 
   #HEADLINE106 > .ladi-headline {
     font-family: "Intelligent Design - AvertaStdCY-Bold_1.otf";
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
     font-size: 21px;
     text-align: center;
     letter-spacing: 0.5px;
@@ -17946,7 +17507,7 @@
     height: 265px;
     top: 0px;
     left: 0px;
-    background-image: url("https://w.ladicdn.com/s600x600/5c7362c6c417ab07e5196b05/toc-3-20230107081022-9sn5b.png");
+    background-image: url("../images/home/natural-2.png");
   }
 
   #BOX110 {
@@ -18026,7 +17587,7 @@
 
   #HEADLINE114 > .ladi-headline {
     font-family: "Intelligent Design - AvertaStdCY-Bold_1.otf";
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
     font-size: 21px;
     text-align: center;
     letter-spacing: 0.5px;
@@ -18045,7 +17606,7 @@
     height: 265px;
     top: 0px;
     left: 0px;
-    background-image: url("https://w.ladicdn.com/s600x600/5c7362c6c417ab07e5196b05/toc-3-20230107081022-9sn5b.png");
+    background-image: url("../images/home/curly.png");
   }
 
   #BOX118 {
@@ -18124,36 +17685,6 @@
     top: 18.25px;
     left: 290px;
   }
-
-  #LINE135 {
-    width: 120px;
-    top: 3.5px;
-    left: 10px;
-  }
-
-  #LINE135 > .ladi-line > .ladi-line-container {
-    border-top: 2px solid rgba(96, 96, 96, 0.5);
-    border-right: 2px solid rgba(96, 96, 96, 0.5);
-    border-bottom: 2px solid rgba(96, 96, 96, 0.5);
-    border-left: 0px !important;
-  }
-
-  #LINE135.ladi-animation > .ladi-line {
-    animation-name: fadeInRight;
-    -webkit-animation-name: fadeInRight;
-    animation-delay: 0.2s;
-    -webkit-animation-delay: 0.2s;
-    animation-duration: 1s;
-    -webkit-animation-duration: 1s;
-    animation-iteration-count: 1;
-    -webkit-animation-iteration-count: 1;
-  }
-
-  #LINE135 > .ladi-line {
-    width: 100%;
-    padding: 8px 0px;
-  }
-
   #TAB_ITEM134 {
     width: 130px;
     height: 25px;
@@ -18183,7 +17714,7 @@
 
   #HEADLINE138 > .ladi-headline {
     font-family: "SVN-Arsilon.otf";
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
     font-size: 36px;
     text-align: center;
     letter-spacing: 1px;
@@ -18304,7 +17835,7 @@
 
   #HEADLINE149 > .ladi-headline {
     font-family: "Intelligent Design - AvertaStdCY-Bold_1.otf";
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
     font-size: 21px;
     text-align: center;
     letter-spacing: 0.5px;
@@ -18403,7 +17934,7 @@
 
   #HEADLINE157 > .ladi-headline {
     font-family: "Intelligent Design - AvertaStdCY-Bold_1.otf";
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
     font-size: 21px;
     text-align: center;
     letter-spacing: 0.5px;
@@ -18502,7 +18033,7 @@
 
   #HEADLINE165 > .ladi-headline {
     font-family: "Intelligent Design - AvertaStdCY-Bold_1.otf";
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
     font-size: 21px;
     text-align: center;
     letter-spacing: 0.5px;
@@ -18601,7 +18132,7 @@
 
   #HEADLINE173 > .ladi-headline {
     font-family: "Intelligent Design - AvertaStdCY-Bold_1.otf";
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
     font-size: 21px;
     text-align: center;
     letter-spacing: 0.5px;
@@ -18728,90 +18259,18 @@
   }
 
   #HEADLINE182 {
-    width: 420px;
+    width: 1020px;
     top: 0px;
     left: 0px;
   }
 
   #HEADLINE182 > .ladi-headline {
     font-family: "SVN-Arsilon.otf";
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
     font-size: 36px;
-    text-align: center;
+    text-align: justify;
     letter-spacing: 1px;
     line-height: 1.6;
-  }
-
-  #LINE185 {
-    width: 100px;
-    top: 3.5px;
-    left: 0px;
-  }
-
-  #LINE185 > .ladi-line > .ladi-line-container {
-    border-top: 2px solid rgba(96, 96, 96, 0.5);
-    border-right: 2px solid rgba(96, 96, 96, 0.5);
-    border-bottom: 2px solid rgba(96, 96, 96, 0.5);
-    border-left: 0px !important;
-  }
-
-  #LINE185.ladi-animation > .ladi-line {
-    animation-name: fadeInLeft;
-    -webkit-animation-name: fadeInLeft;
-    animation-delay: 0.2s;
-    -webkit-animation-delay: 0.2s;
-    animation-duration: 1s;
-    -webkit-animation-duration: 1s;
-    animation-iteration-count: 1;
-    -webkit-animation-iteration-count: 1;
-  }
-
-  #LINE185 > .ladi-line {
-    width: 100%;
-    padding: 8px 0px;
-  }
-
-  #TAB_ITEM184 {
-    width: 110px;
-    height: 25px;
-    top: 0px;
-    left: 0px;
-  }
-
-  #TABS183 {
-    width: 110px;
-    height: 25px;
-    top: 18.25px;
-    left: 310px;
-  }
-
-  #LINE188 {
-    width: 120px;
-    top: 3.5px;
-    left: 10px;
-  }
-
-  #LINE188 > .ladi-line > .ladi-line-container {
-    border-top: 2px solid rgba(96, 96, 96, 0.5);
-    border-right: 2px solid rgba(96, 96, 96, 0.5);
-    border-bottom: 2px solid rgba(96, 96, 96, 0.5);
-    border-left: 0px !important;
-  }
-
-  #LINE188.ladi-animation > .ladi-line {
-    animation-name: fadeInRight;
-    -webkit-animation-name: fadeInRight;
-    animation-delay: 0.2s;
-    -webkit-animation-delay: 0.2s;
-    animation-duration: 1s;
-    -webkit-animation-duration: 1s;
-    animation-iteration-count: 1;
-    -webkit-animation-iteration-count: 1;
-  }
-
-  #LINE188 > .ladi-line {
-    width: 100%;
-    padding: 8px 0px;
   }
 
   #TAB_ITEM187 {
@@ -18821,12 +18280,6 @@
     left: 0px;
   }
 
-  #TABS186 {
-    width: 110px;
-    height: 25px;
-    top: 18.25px;
-    left: 0px;
-  }
 
   #GROUP181 {
     width: 420px;
@@ -18856,7 +18309,7 @@
 
   #HEADLINE193 > .ladi-headline {
     font-family: "Intelligent Design - AvertaStdCY-Bold_1.otf";
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
     font-size: 21px;
     text-align: center;
     letter-spacing: 0.5px;
@@ -18875,7 +18328,7 @@
     height: 265px;
     top: 0px;
     left: 0px;
-    background-image: url("https://w.ladicdn.com/s600x600/5c7362c6c417ab07e5196b05/toc-1-20230107081022-xq_mh.png");
+    background-image: url("../images/home/bundle1.png");
   }
 
   #BOX197 {
@@ -18955,7 +18408,7 @@
 
   #HEADLINE201 > .ladi-headline {
     font-family: "Intelligent Design - AvertaStdCY-Bold_1.otf";
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
     font-size: 21px;
     text-align: center;
     letter-spacing: 0.5px;
@@ -18974,7 +18427,7 @@
     height: 265px;
     top: 0px;
     left: 0px;
-    background-image: url("https://w.ladicdn.com/s600x600/5c7362c6c417ab07e5196b05/toc-2-20230107081022-vlhaa.png");
+    background-image: url("../images/home/bundle2.png");
   }
 
   #BOX205 {
@@ -19054,7 +18507,7 @@
 
   #HEADLINE209 > .ladi-headline {
     font-family: "Intelligent Design - AvertaStdCY-Bold_1.otf";
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
     font-size: 21px;
     text-align: center;
     letter-spacing: 0.5px;
@@ -19073,7 +18526,7 @@
     height: 265px;
     top: 0px;
     left: 0px;
-    background-image: url("https://w.ladicdn.com/s600x600/5c7362c6c417ab07e5196b05/toc-3-20230107081022-9sn5b.png");
+    background-image: url("../images/home/bundle3.png");
   }
 
   #BOX213 {
@@ -19153,7 +18606,7 @@
 
   #HEADLINE217 > .ladi-headline {
     font-family: "Intelligent Design - AvertaStdCY-Bold_1.otf";
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
     font-size: 21px;
     text-align: center;
     letter-spacing: 0.5px;
@@ -19172,7 +18625,7 @@
     height: 265px;
     top: 0px;
     left: 0px;
-    background-image: url("https://w.ladicdn.com/s600x600/5c7362c6c417ab07e5196b05/toc-3-20230107081022-9sn5b.png");
+    background-image: url("../images/home/bundle4.png");
   }
 
   #BOX221 {
@@ -19280,47 +18733,18 @@
   }
 
   #HEADLINE226 {
-    width: 420px;
+    width: 1020px;
     top: 0px;
     left: 0px;
   }
 
   #HEADLINE226 > .ladi-headline {
     font-family: "SVN-Arsilon.otf";
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
     font-size: 36px;
     text-align: center;
     letter-spacing: 1px;
     line-height: 1.6;
-  }
-
-  #LINE229 {
-    width: 120px;
-    top: 3.5px;
-    left: 0px;
-  }
-
-  #LINE229 > .ladi-line > .ladi-line-container {
-    border-top: 2px solid rgba(96, 96, 96, 0.5);
-    border-right: 2px solid rgba(96, 96, 96, 0.5);
-    border-bottom: 2px solid rgba(96, 96, 96, 0.5);
-    border-left: 0px !important;
-  }
-
-  #LINE229.ladi-animation > .ladi-line {
-    animation-name: fadeInLeft;
-    -webkit-animation-name: fadeInLeft;
-    animation-delay: 0.2s;
-    -webkit-animation-delay: 0.2s;
-    animation-duration: 1s;
-    -webkit-animation-duration: 1s;
-    animation-iteration-count: 1;
-    -webkit-animation-iteration-count: 1;
-  }
-
-  #LINE229 > .ladi-line {
-    width: 100%;
-    padding: 8px 0px;
   }
 
   #TAB_ITEM228 {
@@ -19335,35 +18759,6 @@
     height: 25px;
     top: 18.25px;
     left: 290px;
-  }
-
-  #LINE232 {
-    width: 120px;
-    top: 3.5px;
-    left: 10px;
-  }
-
-  #LINE232 > .ladi-line > .ladi-line-container {
-    border-top: 2px solid rgba(96, 96, 96, 0.5);
-    border-right: 2px solid rgba(96, 96, 96, 0.5);
-    border-bottom: 2px solid rgba(96, 96, 96, 0.5);
-    border-left: 0px !important;
-  }
-
-  #LINE232.ladi-animation > .ladi-line {
-    animation-name: fadeInRight;
-    -webkit-animation-name: fadeInRight;
-    animation-delay: 0.2s;
-    -webkit-animation-delay: 0.2s;
-    animation-duration: 1s;
-    -webkit-animation-duration: 1s;
-    animation-iteration-count: 1;
-    -webkit-animation-iteration-count: 1;
-  }
-
-  #LINE232 > .ladi-line {
-    width: 100%;
-    padding: 8px 0px;
   }
 
   #TAB_ITEM231 {
@@ -19408,7 +18803,7 @@
 
   #HEADLINE237 > .ladi-headline {
     font-family: "Intelligent Design - AvertaStdCY-Bold_1.otf";
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
     font-size: 21px;
     text-align: center;
     letter-spacing: 0.5px;
@@ -19427,7 +18822,7 @@
     height: 265px;
     top: 0px;
     left: 0px;
-    background-image: url("https://w.ladicdn.com/s600x600/5c7362c6c417ab07e5196b05/toc-1-20230107081022-xq_mh.png");
+    background-image: url("../images/home/Body-wavy.png");
   }
 
   #BOX241 {
@@ -19507,7 +18902,7 @@
 
   #HEADLINE245 > .ladi-headline {
     font-family: "Intelligent Design - AvertaStdCY-Bold_1.otf";
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
     font-size: 21px;
     text-align: center;
     letter-spacing: 0.5px;
@@ -19526,7 +18921,7 @@
     height: 265px;
     top: 0px;
     left: 0px;
-    background-image: url("https://w.ladicdn.com/s600x600/5c7362c6c417ab07e5196b05/toc-2-20230107081022-vlhaa.png");
+    background-image: url("../images/home/deep-wavy.png");
   }
 
   #BOX249 {
@@ -19606,7 +19001,7 @@
 
   #HEADLINE253 > .ladi-headline {
     font-family: "Intelligent Design - AvertaStdCY-Bold_1.otf";
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
     font-size: 21px;
     text-align: center;
     letter-spacing: 0.5px;
@@ -19625,7 +19020,7 @@
     height: 265px;
     top: 0px;
     left: 0px;
-    background-image: url("https://w.ladicdn.com/s600x600/5c7362c6c417ab07e5196b05/toc-3-20230107081022-9sn5b.png");
+    background-image: url("../images/home/burmese\ curly.png");
   }
 
   #BOX257 {
@@ -19705,7 +19100,7 @@
 
   #HEADLINE261 > .ladi-headline {
     font-family: "Intelligent Design - AvertaStdCY-Bold_1.otf";
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
     font-size: 21px;
     text-align: center;
     letter-spacing: 0.5px;
@@ -19724,7 +19119,7 @@
     height: 265px;
     top: 0px;
     left: 0px;
-    background-image: url("https://w.ladicdn.com/s600x600/5c7362c6c417ab07e5196b05/toc-3-20230107081022-9sn5b.png");
+    background-image: url("../images/home/fumi-curly.png");
   }
 
   #BOX265 {
@@ -19839,7 +19234,7 @@
 
   #HEADLINE270 > .ladi-headline {
     font-family: "SVN-Arsilon.otf";
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
     font-size: 36px;
     text-align: center;
     letter-spacing: 1px;
@@ -19960,7 +19355,7 @@
 
   #HEADLINE281 > .ladi-headline {
     font-family: "Intelligent Design - AvertaStdCY-Bold_1.otf";
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
     font-size: 21px;
     text-align: center;
     letter-spacing: 0.5px;
@@ -20059,7 +19454,7 @@
 
   #HEADLINE289 > .ladi-headline {
     font-family: "Intelligent Design - AvertaStdCY-Bold_1.otf";
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
     font-size: 21px;
     text-align: center;
     letter-spacing: 0.5px;
@@ -20158,7 +19553,7 @@
 
   #HEADLINE297 > .ladi-headline {
     font-family: "Intelligent Design - AvertaStdCY-Bold_1.otf";
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
     font-size: 21px;
     text-align: center;
     letter-spacing: 0.5px;
@@ -20257,7 +19652,7 @@
 
   #HEADLINE305 > .ladi-headline {
     font-family: "Intelligent Design - AvertaStdCY-Bold_1.otf";
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
     font-size: 21px;
     text-align: center;
     letter-spacing: 0.5px;
@@ -20391,40 +19786,11 @@
 
   #HEADLINE314 > .ladi-headline {
     font-family: "SVN-Arsilon.otf";
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
     font-size: 36px;
     text-align: center;
     letter-spacing: 1px;
     line-height: 1.6;
-  }
-
-  #LINE317 {
-    width: 59px;
-    top: 3.5px;
-    left: 0px;
-  }
-
-  #LINE317 > .ladi-line > .ladi-line-container {
-    border-top: 2px solid rgba(96, 96, 96, 0.5);
-    border-right: 2px solid rgba(96, 96, 96, 0.5);
-    border-bottom: 2px solid rgba(96, 96, 96, 0.5);
-    border-left: 0px !important;
-  }
-
-  #LINE317.ladi-animation > .ladi-line {
-    animation-name: fadeInLeft;
-    -webkit-animation-name: fadeInLeft;
-    animation-delay: 0.2s;
-    -webkit-animation-delay: 0.2s;
-    animation-duration: 1s;
-    -webkit-animation-duration: 1s;
-    animation-iteration-count: 1;
-    -webkit-animation-iteration-count: 1;
-  }
-
-  #LINE317 > .ladi-line {
-    width: 100%;
-    padding: 8px 0px;
   }
 
   #TAB_ITEM316 {
@@ -20439,35 +19805,6 @@
     height: 25px;
     top: 18.25px;
     left: 350px;
-  }
-
-  #LINE320 {
-    width: 120px;
-    top: 3.5px;
-    left: 10px;
-  }
-
-  #LINE320 > .ladi-line > .ladi-line-container {
-    border-top: 2px solid rgba(96, 96, 96, 0.5);
-    border-right: 2px solid rgba(96, 96, 96, 0.5);
-    border-bottom: 2px solid rgba(96, 96, 96, 0.5);
-    border-left: 0px !important;
-  }
-
-  #LINE320.ladi-animation > .ladi-line {
-    animation-name: fadeInRight;
-    -webkit-animation-name: fadeInRight;
-    animation-delay: 0.2s;
-    -webkit-animation-delay: 0.2s;
-    animation-duration: 1s;
-    -webkit-animation-duration: 1s;
-    animation-iteration-count: 1;
-    -webkit-animation-iteration-count: 1;
-  }
-
-  #LINE320 > .ladi-line {
-    width: 100%;
-    padding: 8px 0px;
   }
 
   #TAB_ITEM319 {
@@ -20512,7 +19849,7 @@
 
   #HEADLINE325 > .ladi-headline {
     font-family: "Intelligent Design - AvertaStdCY-Bold_1.otf";
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
     font-size: 21px;
     text-align: center;
     letter-spacing: 0.5px;
@@ -20531,7 +19868,7 @@
     height: 265px;
     top: 0px;
     left: 0px;
-    background-image: url("https://w.ladicdn.com/s600x600/5c7362c6c417ab07e5196b05/toc-1-20230107081022-xq_mh.png");
+    background-image: url("../images/home/2x6.png");
   }
 
   #BOX329 {
@@ -20611,7 +19948,7 @@
 
   #HEADLINE333 > .ladi-headline {
     font-family: "Intelligent Design - AvertaStdCY-Bold_1.otf";
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
     font-size: 21px;
     text-align: center;
     letter-spacing: 0.5px;
@@ -20630,7 +19967,7 @@
     height: 265px;
     top: 0px;
     left: 0px;
-    background-image: url("https://w.ladicdn.com/s600x600/5c7362c6c417ab07e5196b05/toc-2-20230107081022-vlhaa.png");
+    background-image: url("../images/home/4x4.png");
   }
 
   #BOX337 {
@@ -20710,7 +20047,7 @@
 
   #HEADLINE341 > .ladi-headline {
     font-family: "Intelligent Design - AvertaStdCY-Bold_1.otf";
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
     font-size: 21px;
     text-align: center;
     letter-spacing: 0.5px;
@@ -20729,7 +20066,7 @@
     height: 265px;
     top: 0px;
     left: 0px;
-    background-image: url("https://w.ladicdn.com/s600x600/5c7362c6c417ab07e5196b05/toc-3-20230107081022-9sn5b.png");
+    background-image: url("../images/home/5x5.png");
   }
 
   #BOX345 {
@@ -20809,7 +20146,7 @@
 
   #HEADLINE349 > .ladi-headline {
     font-family: "Intelligent Design - AvertaStdCY-Bold_1.otf";
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
     font-size: 21px;
     text-align: center;
     letter-spacing: 0.5px;
@@ -20828,7 +20165,7 @@
     height: 265px;
     top: 0px;
     left: 0px;
-    background-image: url("https://w.ladicdn.com/s600x600/5c7362c6c417ab07e5196b05/toc-3-20230107081022-9sn5b.png");
+    background-image: url("../images/home/13x4.png");
   }
 
   #BOX353 {
@@ -20989,7 +20326,7 @@
     height: 356.397px;
     top: 0px;
     left: 0px;
-    background-image: url("https://w.ladicdn.com/s600x700/5c7362c6c417ab07e5196b05/nu-tay-agag-20230110033654-ljv2h.png");
+    background-image: url("../images/home/catalog.png");
   }
 
   #IMAGE363 > .ladi-image {
@@ -20998,23 +20335,20 @@
   }
 
   #IMAGE364 {
-    width: 79.3322px;
-    height: 79.3322px;
+    width: 82px;
+    height: 82px;
     top: 120.667px;
     left: 30px;
   }
 
   #IMAGE364 > .ladi-image > .ladi-image-background {
-    width: 79.3322px;
-    height: 79.3322px;
+    width: 82px;
+    height: 82px;
     top: 0px;
     left: 0px;
-    background-image: url("https://w.ladicdn.com/s400x400/5c7362c6c417ab07e5196b05/body-wavy-20230109081835-svcm7.jpeg");
+    background-image: url("../images/home/bodywavy.png");
   }
 
-  #IMAGE364 > .ladi-image {
-    border-radius: 9999px;
-  }
 
   #HEADLINE365 {
     width: 62px;
@@ -21024,7 +20358,7 @@
 
   #HEADLINE365 > .ladi-headline {
     font-family: "Intelligent Design - AvertaStdCY-Bold_1.otf";
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
     font-size: 14px;
     text-align: center;
     line-height: 1.2;
@@ -21045,10 +20379,6 @@
     background-image: url("https://w.ladicdn.com/s400x400/5c7362c6c417ab07e5196b05/deep-wavy-1-20230109081837-zigdj.jpeg");
   }
 
-  #IMAGE368 > .ladi-image {
-    border-radius: 9999px;
-  }
-
   #HEADLINE369 {
     width: 63px;
     top: 210.667px;
@@ -21057,7 +20387,7 @@
 
   #HEADLINE369 > .ladi-headline {
     font-family: "Intelligent Design - AvertaStdCY-Bold_1.otf";
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
     font-size: 14px;
     text-align: center;
     line-height: 1.2;
@@ -21090,7 +20420,7 @@
 
   #HEADLINE372 > .ladi-headline {
     font-family: "Intelligent Design - AvertaStdCY-Bold_1.otf";
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
     font-size: 14px;
     text-align: center;
     line-height: 1.2;
@@ -21123,7 +20453,7 @@
 
   #HEADLINE375 > .ladi-headline {
     font-family: "Intelligent Design - AvertaStdCY-Bold_1.otf";
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
     font-size: 14px;
     text-align: center;
     line-height: 1.2;
@@ -21139,7 +20469,7 @@
   #BOX376 > .ladi-box {
     background-color: rgba(255, 255, 255, 0);
     border-style: solid;
-    border-color: rgb(205, 19, 119);
+    border-color: rgb(17, 17, 17);
     border-width: 4px;
     border-radius: 15px;
   }
@@ -21156,7 +20486,7 @@
     height: 79.3322px;
     top: 0px;
     left: 0px;
-    background-image: url("https://w.ladicdn.com/s400x400/5c7362c6c417ab07e5196b05/bone-straight-20230109081836-ygokj.jpeg");
+    background-image: url("../images/home/bonestraight.png");
   }
 
   #IMAGE378 > .ladi-image {
@@ -21171,7 +20501,7 @@
 
   #HEADLINE379 > .ladi-headline {
     font-family: "Intelligent Design - AvertaStdCY-Bold_1.otf";
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
     font-size: 14px;
     text-align: center;
     line-height: 1.2;
@@ -21204,7 +20534,7 @@
 
   #HEADLINE382 > .ladi-headline {
     font-family: "Intelligent Design - AvertaStdCY-Bold_1.otf";
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
     font-size: 14px;
     text-align: center;
     line-height: 1.2;
@@ -21237,7 +20567,7 @@
 
   #HEADLINE385 > .ladi-headline {
     font-family: "Intelligent Design - AvertaStdCY-Bold_1.otf";
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
     font-size: 14px;
     text-align: center;
     line-height: 1.2;
@@ -21270,7 +20600,7 @@
 
   #HEADLINE388 > .ladi-headline {
     font-family: "Intelligent Design - AvertaStdCY-Bold_1.otf";
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
     font-size: 14px;
     text-align: center;
     line-height: 1.2;
@@ -21303,7 +20633,7 @@
 
   #HEADLINE391 > .ladi-headline {
     font-family: "Intelligent Design - AvertaStdCY-Bold_1.otf";
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
     font-size: 14px;
     text-align: center;
     line-height: 1.2;
@@ -21336,7 +20666,7 @@
 
   #HEADLINE394 > .ladi-headline {
     font-family: "Intelligent Design - AvertaStdCY-Bold_1.otf";
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
     font-size: 14px;
     text-align: center;
     line-height: 1.2;
@@ -21369,7 +20699,7 @@
 
   #HEADLINE397 > .ladi-headline {
     font-family: "Intelligent Design - AvertaStdCY-Bold_1.otf";
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
     font-size: 14px;
     text-align: center;
     line-height: 1.2;
@@ -21402,7 +20732,7 @@
 
   #HEADLINE400 > .ladi-headline {
     font-family: "Intelligent Design - AvertaStdCY-Bold_1.otf";
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
     font-size: 14px;
     text-align: center;
     line-height: 1.2;
@@ -21435,7 +20765,7 @@
 
   #HEADLINE403 > .ladi-headline {
     font-family: "Intelligent Design - AvertaStdCY-Bold_1.otf";
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
     font-size: 14px;
     text-align: center;
     line-height: 1.2;
@@ -21468,7 +20798,7 @@
 
   #HEADLINE406 > .ladi-headline {
     font-family: "Intelligent Design - AvertaStdCY-Bold_1.otf";
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
     font-size: 14px;
     text-align: center;
     line-height: 1.2;
@@ -21501,7 +20831,7 @@
 
   #HEADLINE409 > .ladi-headline {
     font-family: "Intelligent Design - AvertaStdCY-Bold_1.otf";
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
     font-size: 14px;
     text-align: center;
     line-height: 1.2;
@@ -21534,7 +20864,7 @@
 
   #HEADLINE412 > .ladi-headline {
     font-family: "Intelligent Design - AvertaStdCY-Bold_1.otf";
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
     font-size: 14px;
     text-align: center;
     line-height: 1.2;
@@ -21567,7 +20897,7 @@
 
   #HEADLINE415 > .ladi-headline {
     font-family: "Intelligent Design - AvertaStdCY-Bold_1.otf";
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
     font-size: 14px;
     text-align: center;
     line-height: 1.2;
@@ -21600,7 +20930,7 @@
 
   #HEADLINE418 > .ladi-headline {
     font-family: "Intelligent Design - AvertaStdCY-Bold_1.otf";
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
     font-size: 14px;
     text-align: center;
     line-height: 1.2;
@@ -21633,7 +20963,7 @@
 
   #HEADLINE421 > .ladi-headline {
     font-family: "Intelligent Design - AvertaStdCY-Bold_1.otf";
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
     font-size: 14px;
     text-align: center;
     line-height: 1.2;
@@ -21666,7 +20996,7 @@
 
   #HEADLINE424 > .ladi-headline {
     font-family: "Intelligent Design - AvertaStdCY-Bold_1.otf";
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
     font-size: 14px;
     text-align: center;
     line-height: 1.2;
@@ -21699,7 +21029,7 @@
 
   #HEADLINE427 > .ladi-headline {
     font-family: "Intelligent Design - AvertaStdCY-Bold_1.otf";
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
     font-size: 14px;
     text-align: center;
     line-height: 1.2;
@@ -21732,7 +21062,7 @@
 
   #HEADLINE430 > .ladi-headline {
     font-family: "Intelligent Design - AvertaStdCY-Bold_1.otf";
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
     font-size: 14px;
     text-align: center;
     line-height: 1.2;
@@ -21765,7 +21095,7 @@
 
   #HEADLINE433 > .ladi-headline {
     font-family: "Intelligent Design - AvertaStdCY-Bold_1.otf";
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
     font-size: 14px;
     text-align: center;
     line-height: 1.2;
@@ -21798,7 +21128,7 @@
 
   #HEADLINE436 > .ladi-headline {
     font-family: "Intelligent Design - AvertaStdCY-Bold_1.otf";
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
     font-size: 14px;
     text-align: center;
     line-height: 1.2;
@@ -21831,7 +21161,7 @@
 
   #HEADLINE439 > .ladi-headline {
     font-family: "Intelligent Design - AvertaStdCY-Bold_1.otf";
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
     font-size: 14px;
     text-align: center;
     line-height: 1.2;
@@ -21864,7 +21194,7 @@
 
   #HEADLINE442 > .ladi-headline {
     font-family: "Intelligent Design - AvertaStdCY-Bold_1.otf";
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
     font-size: 14px;
     text-align: center;
     line-height: 1.2;
@@ -21880,7 +21210,7 @@
   #BOX443 > .ladi-box {
     background-color: rgba(255, 255, 255, 0);
     border-style: solid;
-    border-color: rgb(205, 19, 119);
+    border-color: rgb(17, 17, 17);
     border-width: 4px;
     border-radius: 15px;
   }
@@ -21908,40 +21238,11 @@
 
   #HEADLINE454 > .ladi-headline {
     font-family: "SVN-Arsilon.otf";
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
     font-size: 36px;
     text-align: center;
     letter-spacing: 1px;
     line-height: 1.6;
-  }
-
-  #LINE457 {
-    width: 120px;
-    top: 3.5px;
-    left: 0px;
-  }
-
-  #LINE457 > .ladi-line > .ladi-line-container {
-    border-top: 2px solid rgba(96, 96, 96, 0.5);
-    border-right: 2px solid rgba(96, 96, 96, 0.5);
-    border-bottom: 2px solid rgba(96, 96, 96, 0.5);
-    border-left: 0px !important;
-  }
-
-  #LINE457.ladi-animation > .ladi-line {
-    animation-name: fadeInLeft;
-    -webkit-animation-name: fadeInLeft;
-    animation-delay: 0.2s;
-    -webkit-animation-delay: 0.2s;
-    animation-duration: 1s;
-    -webkit-animation-duration: 1s;
-    animation-iteration-count: 1;
-    -webkit-animation-iteration-count: 1;
-  }
-
-  #LINE457 > .ladi-line {
-    width: 100%;
-    padding: 8px 0px;
   }
 
   #TAB_ITEM456 {
@@ -21956,35 +21257,6 @@
     height: 25px;
     top: 18.25px;
     left: 290px;
-  }
-
-  #LINE460 {
-    width: 120px;
-    top: 3.5px;
-    left: 10px;
-  }
-
-  #LINE460 > .ladi-line > .ladi-line-container {
-    border-top: 2px solid rgba(96, 96, 96, 0.5);
-    border-right: 2px solid rgba(96, 96, 96, 0.5);
-    border-bottom: 2px solid rgba(96, 96, 96, 0.5);
-    border-left: 0px !important;
-  }
-
-  #LINE460.ladi-animation > .ladi-line {
-    animation-name: fadeInRight;
-    -webkit-animation-name: fadeInRight;
-    animation-delay: 0.2s;
-    -webkit-animation-delay: 0.2s;
-    animation-duration: 1s;
-    -webkit-animation-duration: 1s;
-    animation-iteration-count: 1;
-    -webkit-animation-iteration-count: 1;
-  }
-
-  #LINE460 > .ladi-line {
-    width: 100%;
-    padding: 8px 0px;
   }
 
   #TAB_ITEM459 {
@@ -22368,7 +21640,7 @@
     height: 186.346px;
     top: 0px;
     left: 0px;
-    background-image: url("https://w.ladicdn.com/s400x500/5c7362c6c417ab07e5196b05/insta-4-20230109013710-pubno.png");
+    background-image: url("../images/home/insta4.png");
   }
 
   #IMAGE502 > .ladi-image {
@@ -22417,7 +21689,7 @@
     height: 186.346px;
     top: 0px;
     left: 0px;
-    background-image: url("https://w.ladicdn.com/s400x500/5c7362c6c417ab07e5196b05/insta-3-20230109013710-3xbcp.png");
+    background-image: url("../images/home/insta3.png");
   }
 
   #IMAGE506 > .ladi-image {
@@ -22466,7 +21738,7 @@
     height: 186.346px;
     top: 0px;
     left: 0px;
-    background-image: url("https://w.ladicdn.com/s400x500/5c7362c6c417ab07e5196b05/insta-2-20230109013710-s3yzl.png");
+    background-image: url("../images/home/insta2.png");
   }
 
   #IMAGE512 > .ladi-image {
@@ -22515,7 +21787,7 @@
     height: 186.346px;
     top: 0px;
     left: 0px;
-    background-image: url("https://w.ladicdn.com/s400x500/5c7362c6c417ab07e5196b05/insta-20230109013710-bhtzh.png");
+    background-image: url("../images/home/insta1.png");
   }
 
   #IMAGE515 > .ladi-image {
@@ -22563,7 +21835,7 @@
   }
 
   #BOX517 > .ladi-box {
-    background-color: rgb(205, 19, 119);
+    background-color: rgb(17, 17, 17);
     border-radius: 28px;
   }
 
@@ -22588,7 +21860,7 @@
   }
 
   #HEADLINE519 > .ladi-headline:hover {
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
   }
 
   #GROUP520 {
@@ -22673,7 +21945,7 @@
   }
 
   #BOX526 > .ladi-box {
-    background-color: rgb(205, 19, 119);
+    background-color: rgb(17, 17, 17);
     border-radius: 0px 0px 7px 7px;
   }
 
@@ -22756,7 +22028,7 @@
   }
 
   #BOX538 > .ladi-box {
-    background-color: rgb(205, 19, 119);
+    background-color: rgb(17, 17, 17);
     border-radius: 999px;
   }
 
@@ -22879,7 +22151,7 @@
   }
 
   #BOX549 > .ladi-box {
-    background-color: rgb(205, 19, 119);
+    background-color: rgb(17, 17, 17);
     border-radius: 0px 0px 7px 7px;
   }
 
@@ -23011,7 +22283,7 @@
   }
 
   #BOX559 > .ladi-box {
-    background-color: rgb(205, 19, 119);
+    background-color: rgb(17, 17, 17);
     border-radius: 0px 0px 7px 7px;
   }
 
@@ -23143,7 +22415,7 @@
   }
 
   #BOX569 > .ladi-box {
-    background-color: rgb(205, 19, 119);
+    background-color: rgb(17, 17, 17);
     border-radius: 0px 0px 7px 7px;
   }
 
@@ -23275,7 +22547,7 @@
   }
 
   #BOX579 > .ladi-box {
-    background-color: rgb(205, 19, 119);
+    background-color: rgb(17, 17, 17);
     border-radius: 0px 0px 7px 7px;
   }
 
@@ -23407,7 +22679,7 @@
   }
 
   #BOX589 > .ladi-box {
-    background-color: rgb(205, 19, 119);
+    background-color: rgb(17, 17, 17);
     border-radius: 0px 0px 7px 7px;
   }
 
@@ -23539,7 +22811,7 @@
   }
 
   #BOX599 > .ladi-box {
-    background-color: rgb(205, 19, 119);
+    background-color: rgb(17, 17, 17);
     border-radius: 0px 0px 7px 7px;
   }
 
@@ -23671,7 +22943,7 @@
   }
 
   #BOX609 > .ladi-box {
-    background-color: rgb(205, 19, 119);
+    background-color: rgb(17, 17, 17);
     border-radius: 0px 0px 7px 7px;
   }
 
@@ -23748,7 +23020,7 @@
   }
 
   #BOX615 > .ladi-box {
-    background-color: rgb(205, 19, 119);
+    background-color: rgb(17, 17, 17);
     border-radius: 999px;
   }
 
@@ -23816,7 +23088,7 @@
   }
 
   #BOX621 > .ladi-box {
-    background-color: rgb(205, 19, 119);
+    background-color: rgb(17, 17, 17);
     border-radius: 999px;
   }
 
@@ -23884,7 +23156,7 @@
   }
 
   #BOX627 > .ladi-box {
-    background-color: rgb(205, 19, 119);
+    background-color: rgb(17, 17, 17);
     border-radius: 999px;
   }
 
@@ -23934,7 +23206,7 @@
 
   #HEADLINE630 > .ladi-headline {
     font-family: "SVN-Arsilon.otf";
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
     font-size: 36px;
     text-align: center;
     letter-spacing: 1px;
@@ -23949,7 +23221,7 @@
 
   #HEADLINE631 > .ladi-headline {
     font-family: "SVN-Arsilon.otf";
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
     font-size: 36px;
     text-align: center;
     letter-spacing: 1px;
@@ -23964,7 +23236,7 @@
 
   #HEADLINE633 > .ladi-headline {
     font-family: "SVN-Arsilon.otf";
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
     font-size: 36px;
     text-align: center;
     letter-spacing: 1px;
@@ -24105,7 +23377,7 @@
   }
 
   #SHAPE643 svg:last-child {
-    fill: rgb(205, 19, 119);
+    fill: rgb(17, 17, 17);
   }
 
   #HEADLINE644 {
@@ -24122,7 +23394,7 @@
   }
 
   #HEADLINE644 > .ladi-headline:hover {
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
   }
 
   #IMAGE645 {
@@ -24229,7 +23501,7 @@
   }
 
   #HEADLINE663 > .ladi-headline:hover {
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
   }
 
   #IMAGE664 {
@@ -24273,7 +23545,7 @@
   }
 
   #SHAPE666 svg:last-child {
-    fill: rgb(205, 19, 119);
+    fill: rgb(17, 17, 17);
   }
 
   #IMAGE667 {
@@ -24369,7 +23641,7 @@
   }
 
   #HEADLINE671 > .ladi-headline:hover {
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
   }
 
   #IMAGE672 {
@@ -24413,7 +23685,7 @@
   }
 
   #SHAPE674 svg:last-child {
-    fill: rgb(205, 19, 119);
+    fill: rgb(17, 17, 17);
   }
 
   #IMAGE675 {
@@ -24509,7 +23781,7 @@
   }
 
   #HEADLINE679 > .ladi-headline:hover {
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
   }
 
   #IMAGE680 {
@@ -24553,7 +23825,7 @@
   }
 
   #SHAPE682 svg:last-child {
-    fill: rgb(205, 19, 119);
+    fill: rgb(17, 17, 17);
   }
 
   #IMAGE683 {
@@ -24679,7 +23951,7 @@
   }
 
   #HEADLINE694 > .ladi-headline:hover {
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
   }
 
   #IMAGE695 {
@@ -24723,7 +23995,7 @@
   }
 
   #SHAPE697 svg:last-child {
-    fill: rgb(205, 19, 119);
+    fill: rgb(17, 17, 17);
   }
 
   #IMAGE698 {
@@ -24819,7 +24091,7 @@
   }
 
   #HEADLINE702 > .ladi-headline:hover {
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
   }
 
   #IMAGE703 {
@@ -24863,7 +24135,7 @@
   }
 
   #SHAPE705 svg:last-child {
-    fill: rgb(205, 19, 119);
+    fill: rgb(17, 17, 17);
   }
 
   #IMAGE706 {
@@ -24959,7 +24231,7 @@
   }
 
   #HEADLINE710 > .ladi-headline:hover {
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
   }
 
   #IMAGE711 {
@@ -25003,7 +24275,7 @@
   }
 
   #SHAPE713 svg:last-child {
-    fill: rgb(205, 19, 119);
+    fill: rgb(17, 17, 17);
   }
 
   #IMAGE714 {
@@ -25099,7 +24371,7 @@
   }
 
   #HEADLINE718 > .ladi-headline:hover {
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
   }
 
   #IMAGE719 {
@@ -25143,7 +24415,7 @@
   }
 
   #SHAPE721 svg:last-child {
-    fill: rgb(205, 19, 119);
+    fill: rgb(17, 17, 17);
   }
 
   #IMAGE722 {
@@ -25239,7 +24511,7 @@
   }
 
   #HEADLINE730 > .ladi-headline:hover {
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
   }
 
   #IMAGE731 {
@@ -25283,7 +24555,7 @@
   }
 
   #SHAPE733 svg:last-child {
-    fill: rgb(205, 19, 119);
+    fill: rgb(17, 17, 17);
   }
 
   #IMAGE734 {
@@ -25379,7 +24651,7 @@
   }
 
   #HEADLINE738 > .ladi-headline:hover {
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
   }
 
   #IMAGE739 {
@@ -25423,7 +24695,7 @@
   }
 
   #SHAPE741 svg:last-child {
-    fill: rgb(205, 19, 119);
+    fill: rgb(17, 17, 17);
   }
 
   #IMAGE742 {
@@ -25519,7 +24791,7 @@
   }
 
   #HEADLINE746 > .ladi-headline:hover {
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
   }
 
   #IMAGE747 {
@@ -25563,7 +24835,7 @@
   }
 
   #SHAPE749 svg:last-child {
-    fill: rgb(205, 19, 119);
+    fill: rgb(17, 17, 17);
   }
 
   #IMAGE750 {
@@ -25659,7 +24931,7 @@
   }
 
   #HEADLINE754 > .ladi-headline:hover {
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
   }
 
   #IMAGE755 {
@@ -25703,7 +24975,7 @@
   }
 
   #SHAPE757 svg:last-child {
-    fill: rgb(205, 19, 119);
+    fill: rgb(17, 17, 17);
   }
 
   #IMAGE758 {
@@ -25869,7 +25141,7 @@
   }
 
   #HEADLINE770 > .ladi-headline {
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
     font-size: 18px;
     text-align: left;
     line-height: 1.4;
@@ -26370,7 +25642,7 @@
 
   #HEADLINE803 > .ladi-headline {
     font-family: "SVN-Arsilon.otf";
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
     font-size: 36px;
     text-align: center;
     letter-spacing: 1px;
@@ -26413,7 +25685,7 @@
 
   #HEADLINE806 > .ladi-headline {
     font-family: "Intelligent Design - AvertaStdCY-Bold_1.otf";
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
     font-size: 9px;
     text-align: center;
     line-height: 1.6;
@@ -26514,7 +25786,7 @@
 
   #HEADLINE815 > .ladi-headline {
     font-family: "Intelligent Design - AvertaStdCY-Bold_1.otf";
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
     font-size: 8px;
     text-align: center;
     line-height: 1.6;
@@ -26547,7 +25819,7 @@
 
   #HEADLINE818 > .ladi-headline {
     font-family: "Intelligent Design - AvertaStdCY-Bold_1.otf";
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
     font-size: 9px;
     text-align: center;
     line-height: 1.6;
@@ -26580,7 +25852,7 @@
 
   #HEADLINE821 > .ladi-headline {
     font-family: "Intelligent Design - AvertaStdCY-Bold_1.otf";
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
     font-size: 8px;
     text-align: center;
     line-height: 1.6;
@@ -26613,7 +25885,7 @@
 
   #HEADLINE824 > .ladi-headline {
     font-family: "Intelligent Design - AvertaStdCY-Bold_1.otf";
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
     font-size: 8px;
     text-align: center;
     line-height: 1.6;
@@ -26649,7 +25921,7 @@
 
   #HEADLINE826 > .ladi-headline {
     font-family: "Intelligent Design - AvertaStdCY-Bold_1.otf";
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
     font-size: 8px;
     text-align: center;
     line-height: 1.6;
@@ -26777,7 +26049,7 @@
   }
 
   #HEADLINE960 > .ladi-headline:hover {
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
   }
 
   #HEADLINE961 {
@@ -26796,7 +26068,7 @@
   }
 
   #HEADLINE961 > .ladi-headline:hover {
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
   }
 
   #HEADLINE962 {
@@ -26815,7 +26087,7 @@
   }
 
   #HEADLINE962 > .ladi-headline:hover {
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
   }
 
   #HEADLINE963 {
@@ -26834,7 +26106,7 @@
   }
 
   #HEADLINE963 > .ladi-headline:hover {
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
   }
 
   #HEADLINE964 {
@@ -26853,7 +26125,7 @@
   }
 
   #HEADLINE964 > .ladi-headline:hover {
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
   }
 
   #HEADLINE965 {
@@ -26872,7 +26144,7 @@
   }
 
   #HEADLINE965 > .ladi-headline:hover {
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
   }
 
   #HEADLINE966 {
@@ -26891,7 +26163,7 @@
   }
 
   #HEADLINE966 > .ladi-headline:hover {
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
   }
 
   #SHAPE967 {
@@ -26902,7 +26174,7 @@
   }
 
   #SHAPE967:hover > .ladi-shape svg:last-child {
-    fill: rgb(205, 19, 119);
+    fill: rgb(17, 17, 17);
   }
 
   #SHAPE967 svg:last-child {
@@ -26917,7 +26189,7 @@
   }
 
   #BOX1056 > .ladi-box {
-    background-color: rgb(205, 19, 119);
+    background-color: rgb(17, 17, 17);
     border-radius: 999px;
   }
 
@@ -26984,7 +26256,7 @@
   }
 
   #BOX1062 > .ladi-box {
-    background-color: rgb(205, 19, 119);
+    background-color: rgb(17, 17, 17);
     border-radius: 999px;
   }
 
@@ -27051,7 +26323,7 @@
   }
 
   #BOX1068 > .ladi-box {
-    background-color: rgb(205, 19, 119);
+    background-color: rgb(17, 17, 17);
     border-radius: 999px;
   }
 
@@ -27118,7 +26390,7 @@
   }
 
   #BOX1074 > .ladi-box {
-    background-color: rgb(205, 19, 119);
+    background-color: rgb(17, 17, 17);
     border-radius: 999px;
   }
 
@@ -27152,7 +26424,7 @@
     height: 360px;
     top: 0px;
     left: 0px;
-    background-image: url("https://w.ladicdn.com/s700x700/5c7362c6c417ab07e5196b05/whatsapp-image-2022-12-14-at-134038-2-20230109085634-xnyad.jpeg");
+    background-image: url("../images/home/wsap1.png");
   }
 
   #IMAGE1076 {
@@ -27167,7 +26439,7 @@
     height: 358.5px;
     top: 0px;
     left: 0px;
-    background-image: url("https://w.ladicdn.com/s700x700/5c7362c6c417ab07e5196b05/whatsapp-image-2022-12-14-at-134038-1-20230109085634-fodrp.jpeg");
+    background-image: url("../images/home/wsap2.png");
   }
 
   #IMAGE1077 {
@@ -27182,7 +26454,7 @@
     height: 360.25px;
     top: 0px;
     left: 0px;
-    background-image: url("https://w.ladicdn.com/s700x700/5c7362c6c417ab07e5196b05/whatsapp-image-2022-12-14-at-134037-20230109085634-efnhr.jpeg");
+    background-image: url("../images/home/wsap3.png");
   }
 
   #IMAGE1078 {
@@ -27197,7 +26469,7 @@
     height: 360.25px;
     top: 0px;
     left: 0px;
-    background-image: url("https://w.ladicdn.com/s700x700/5c7362c6c417ab07e5196b05/whatsapp-image-2022-12-14-at-134037-2-20230109085634-xcx1a.jpeg");
+    background-image: url("../images/home/wsap4.png");
   }
 
   #GROUP1079 {
@@ -27215,7 +26487,7 @@
   }
 
   #BOX1142 > .ladi-box {
-    background-color: rgb(205, 19, 119);
+    background-color: rgb(17, 17, 17);
     border-radius: 0px;
   }
 
@@ -27323,7 +26595,7 @@
 
   #HEADLINE1145 > .ladi-headline {
     font-family: "Intelligent Design - AvertaStdCY-Bold_1.otf";
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
     font-size: 26px;
     text-align: left;
     line-height: 1.6;
@@ -29688,7 +28960,7 @@
   }
 
   #BUTTON1151 > .ladi-button > .ladi-button-background {
-    background-color: rgb(205, 19, 119);
+    background-color: rgb(17, 17, 17);
   }
 
   #BUTTON1151.ladi-animation > .ladi-button {
@@ -29703,7 +28975,7 @@
   }
 
   #BUTTON1151 > .ladi-button:hover .ladi-headline {
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
   }
 
   #BUTTON1151 > .ladi-button:hover .ladi-button-background {
@@ -29971,7 +29243,7 @@
     height: 214.835px;
     top: 0px;
     left: 0px;
-    background-image: url("https://w.ladicdn.com/s650x550/5c7362c6c417ab07e5196b05/nguoi-a-20230109041519-bin_y.png");
+    background-image: url("../images/home/home-1.png");
   }
 
   #IMAGE1354 {
@@ -30452,18 +29724,18 @@
   }
 
   #IMAGE1385 {
-    width: 140.078px;
-    height: 141.2px;
-    top: 0px;
-    left: 135.822px;
+    width: 294.825px;
+    height: 297.184px;
+    top: 212.948px;
+    left: 600px;
   }
 
   #IMAGE1385 > .ladi-image > .ladi-image-background {
-    width: 140.078px;
-    height: 141.2px;
+    width: 294.825px;
+    height: 297.184px;
     top: 0px;
     left: 0px;
-    background-image: url("https://w.ladicdn.com/s450x450/5c7362c6c417ab07e5196b05/anh-1-20230109062700-gp_eh.png");
+    background-image: url("https://w.ladicdn.com/s600x600/5c7362c6c417ab07e5196b05/anh-1-20230109062700-gp_eh.png");
   }
 
   #IMAGE1386 {
@@ -30478,7 +29750,7 @@
     height: 209.116px;
     top: 0px;
     left: 0px;
-    background-image: url("https://w.ladicdn.com/s500x550/5c7362c6c417ab07e5196b05/nu-tay-2-20230109062715-66dmm.png");
+    background-image: url("../images/home/home-2.png");
   }
 
   #IMAGE1386 > .ladi-image {
@@ -30499,21 +29771,6 @@
     top: 0px;
     left: 0px;
     background-image: url("https://w.ladicdn.com/s350x350/5c7362c6c417ab07e5196b05/bawgn-ron-23-20230109062659-5uzap.png");
-  }
-
-  #IMAGE1388 {
-    width: 144.827px;
-    height: 147.726px;
-    top: 109.131px;
-    left: 125.695px;
-  }
-
-  #IMAGE1388 > .ladi-image > .ladi-image-background {
-    width: 144.827px;
-    height: 147.726px;
-    top: 0px;
-    left: 0px;
-    background-image: url("https://w.ladicdn.com/s450x450/5c7362c6c417ab07e5196b05/anh-2-20230109062659-gvpui.png");
   }
 
   #IMAGE1389 {
@@ -31069,7 +30326,7 @@
     transform: rotate(-9deg);
     -webkit-transform: rotate(-9deg);
     font-family: "SVN-Arsilon.otf";
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
     font-size: 40px;
     text-align: center;
     line-height: 1.6;
@@ -31085,7 +30342,7 @@
     transform: rotate(-9deg);
     -webkit-transform: rotate(-9deg);
     font-family: "SVN-Arsilon.otf";
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
     font-size: 30px;
     text-align: left;
     line-height: 1.6;
@@ -31101,7 +30358,7 @@
     transform: rotate(-9deg);
     -webkit-transform: rotate(-9deg);
     font-family: "SVN-Arsilon.otf";
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
     font-size: 40px;
     text-align: left;
     line-height: 1.6;
@@ -31388,7 +30645,7 @@
   }
 
   #HEADLINE1442 > .ladi-headline:hover {
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
   }
 
   #HEADLINE1443 {
@@ -31407,7 +30664,7 @@
   }
 
   #HEADLINE1443 > .ladi-headline:hover {
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
   }
 
   #HEADLINE1444 {
@@ -31426,7 +30683,7 @@
   }
 
   #HEADLINE1444 > .ladi-headline:hover {
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
   }
 
   #HEADLINE1445 {
@@ -31445,7 +30702,7 @@
   }
 
   #HEADLINE1445 > .ladi-headline:hover {
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
   }
 
   #HEADLINE1447 {
@@ -31464,7 +30721,7 @@
   }
 
   #HEADLINE1447 > .ladi-headline:hover {
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
   }
 
   #SECTION1449 {
@@ -31585,7 +30842,7 @@
   }
 
   #SHAPE1457:hover > .ladi-shape svg:last-child {
-    fill: rgb(205, 19, 119);
+    fill: rgb(17, 17, 17);
   }
 
   #SHAPE1457 svg:last-child {
@@ -31886,7 +31143,7 @@
   }
 
   #HEADLINE1483 > .ladi-headline:hover {
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
   }
 
   #IMAGE1484 {
@@ -31930,7 +31187,7 @@
   }
 
   #SHAPE1486 svg:last-child {
-    fill: rgb(205, 19, 119);
+    fill: rgb(17, 17, 17);
   }
 
   #IMAGE1487 {
@@ -32005,13 +31262,6 @@
     -webkit-transform: scale(0.8);
   }
 
-  #GROUP1482 {
-    width: 169.157px;
-    height: 257.2px;
-    top: 19.101px;
-    left: 2542.42px;
-  }
-
   #HEADLINE1491 {
     width: 169px;
     top: 201.886px;
@@ -32026,7 +31276,7 @@
   }
 
   #HEADLINE1491 > .ladi-headline:hover {
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
   }
 
   #IMAGE1492 {
@@ -32070,7 +31320,7 @@
   }
 
   #SHAPE1494 svg:last-child {
-    fill: rgb(205, 19, 119);
+    fill: rgb(17, 17, 17);
   }
 
   #IMAGE1495 {
@@ -32145,13 +31395,7 @@
     -webkit-transform: scale(0.8);
   }
 
-  #GROUP1490 {
-    width: 169.157px;
-    height: 257.2px;
-    top: 13.7014px;
-    left: 2748.42px;
-  }
-
+ 
   #BOX1499 {
     width: 15.2px;
     height: 15.2px;
@@ -32160,7 +31404,7 @@
   }
 
   #BOX1499 > .ladi-box {
-    background-color: rgb(205, 19, 119);
+    background-color: rgb(17, 17, 17);
     border-radius: 999px;
   }
 
@@ -32184,18 +31428,6 @@
   }
 
   #BOX1501 > .ladi-box {
-    background-color: rgba(205, 19, 119, 0.3);
-    border-radius: 999px;
-  }
-
-  #BOX1502 {
-    width: 15.2px;
-    height: 15.2px;
-    top: 0px;
-    left: 57.5429px;
-  }
-
-  #BOX1502 > .ladi-box {
     background-color: rgba(205, 19, 119, 0.3);
     border-radius: 999px;
   }
@@ -32228,7 +31460,7 @@
   }
 
   #BOX1505 > .ladi-box {
-    background-color: rgb(205, 19, 119);
+    background-color: rgb(17, 17, 17);
     border-radius: 999px;
   }
 
@@ -32296,7 +31528,7 @@
   }
 
   #BOX1511 > .ladi-box {
-    background-color: rgb(205, 19, 119);
+    background-color: rgb(17, 17, 17);
     border-radius: 999px;
   }
 
@@ -32364,7 +31596,7 @@
   }
 
   #BOX1517 > .ladi-box {
-    background-color: rgb(205, 19, 119);
+    background-color: rgb(17, 17, 17);
     border-radius: 999px;
   }
 
@@ -32403,24 +31635,18 @@
     line-height: 1.4;
   }
 
-  #LINE1520 {
-    width: 35px;
+  #HEADLINE1520 {
+    width: 300px;
     top: 78px;
     left: 0px;
   }
 
-  #LINE1520 > .ladi-line > .ladi-line-container {
-    border-top: 2px solid rgb(205, 19, 119);
-    border-right: 2px solid rgb(205, 19, 119);
-    border-bottom: 2px solid rgb(205, 19, 119);
-    border-left: 0px !important;
+  #HEADLINE1520 > .ladi-headline {
+    color: rgb(255, 255, 255);
+    font-size: 14px;
+    text-align: justify;
+    line-height: 1.4;
   }
-
-  #LINE1520 > .ladi-line {
-    width: 100%;
-    padding: 8px 0px;
-  }
-
   #HEADLINE1521 {
     width: 360px;
     top: 95px;
@@ -32504,9 +31730,9 @@
   }
 
   #LINE1526 > .ladi-line > .ladi-line-container {
-    border-top: 2px solid rgb(205, 19, 119);
-    border-right: 2px solid rgb(205, 19, 119);
-    border-bottom: 2px solid rgb(205, 19, 119);
+    border-top: 2px solid rgb(17, 17, 17);
+    border-right: 2px solid rgb(17, 17, 17);
+    border-bottom: 2px solid rgb(17, 17, 17);
     border-left: 0px !important;
   }
 
@@ -32654,7 +31880,7 @@
   }
 
   #BUTTON1536 > .ladi-button:hover .ladi-headline {
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
   }
 
   #BUTTON1536 > .ladi-button:hover .ladi-button-background {
@@ -32878,7 +32104,7 @@
   }
 
   #HEADLINE1556 > .ladi-headline:hover {
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
   }
 
   #HEADLINE1557 {
@@ -32897,7 +32123,7 @@
   }
 
   #HEADLINE1557 > .ladi-headline:hover {
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
   }
 
   #HEADLINE1558 {
@@ -32916,7 +32142,7 @@
   }
 
   #HEADLINE1558 > .ladi-headline:hover {
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
   }
 
   #HEADLINE1560 {
@@ -32935,7 +32161,7 @@
   }
 
   #HEADLINE1560 > .ladi-headline:hover {
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
   }
 
   #GROUP1561 {
@@ -32986,7 +32212,7 @@
 
   #HEADLINE1566 > .ladi-headline {
     font-family: "Intelligent Design - AvertaStdCY-Bold_1.otf";
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
     font-size: 14px;
     text-align: center;
     line-height: 1.2;
@@ -33026,7 +32252,7 @@
 
   #HEADLINE1569 > .ladi-headline {
     font-family: "Intelligent Design - AvertaStdCY-Bold_1.otf";
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
     font-size: 14px;
     text-align: center;
     line-height: 1.2;
@@ -33069,7 +32295,7 @@
   }
 
   #HEADLINE1572 > .ladi-headline:hover {
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
   }
 
   #HEADLINE1573 {
@@ -33088,7 +32314,7 @@
   }
 
   #HEADLINE1573 > .ladi-headline:hover {
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
   }
 
   #DROPBOX1574 {
@@ -33140,7 +32366,7 @@
   }
 
   #HEADLINE1577 > .ladi-headline:hover {
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
   }
 
   #HEADLINE1578 {
@@ -33531,7 +32757,7 @@
   }
 
   #HEADLINE1604 > .ladi-headline:hover {
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
   }
 
   #HEADLINE1605 {
@@ -33550,7 +32776,7 @@
   }
 
   #HEADLINE1605 > .ladi-headline:hover {
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
   }
 
   #HEADLINE1606 {
@@ -33569,7 +32795,7 @@
   }
 
   #HEADLINE1606 > .ladi-headline:hover {
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
   }
 
   #HEADLINE1607 {
@@ -33588,7 +32814,7 @@
   }
 
   #HEADLINE1607 > .ladi-headline:hover {
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
   }
 
   #HEADLINE1608 {
@@ -33607,7 +32833,7 @@
   }
 
   #HEADLINE1608 > .ladi-headline:hover {
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
   }
 
   #HEADLINE1609 {
@@ -33626,7 +32852,7 @@
   }
 
   #HEADLINE1609 > .ladi-headline:hover {
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
   }
 
   #DROPBOX1603 {
@@ -34048,7 +33274,7 @@
   }
 
   #HEADLINE1637 > .ladi-headline:hover {
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
   }
 
   #SHAPE1638 {
@@ -34076,7 +33302,7 @@
   #HEADLINE1639 {
     width: 248px;
     top: 29px;
-    left: 542px;
+    left: 530px;
     display: none !important;
   }
 
@@ -34094,7 +33320,7 @@
   #HEADLINE1640 {
     width: 248px;
     top: 29px;
-    left: 431px;
+    left: 600px;
     display: none !important;
   }
 
@@ -34130,7 +33356,7 @@
   #HEADLINE1643 {
     width: 248px;
     top: 13.5px;
-    left: 474px;
+    left: 800px;
     display: none !important;
   }
 
@@ -34193,7 +33419,7 @@
   }
 
   #HEADLINE1647 > .ladi-headline:hover {
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
   }
 
   #HEADLINE1648 {
@@ -34212,7 +33438,7 @@
   }
 
   #HEADLINE1648 > .ladi-headline:hover {
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
   }
 
   #HEADLINE1649 {
@@ -34231,7 +33457,7 @@
   }
 
   #HEADLINE1649 > .ladi-headline:hover {
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
   }
 
   #HEADLINE1650 {
@@ -34250,7 +33476,7 @@
   }
 
   #HEADLINE1650 > .ladi-headline:hover {
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
   }
 
   #HEADLINE1651 {
@@ -34269,7 +33495,7 @@
   }
 
   #HEADLINE1651 > .ladi-headline:hover {
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
   }
 
   #HEADLINE1652 {
@@ -34288,7 +33514,7 @@
   }
 
   #HEADLINE1652 > .ladi-headline:hover {
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
   }
 
   #GROUP1646 {
@@ -34314,7 +33540,7 @@
   }
 
   #HEADLINE1653 > .ladi-headline:hover {
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
   }
 
   #HEADLINE1658 {
@@ -34333,7 +33559,7 @@
   }
 
   #HEADLINE1658 > .ladi-headline:hover {
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
   }
 
   #HEADLINE1659 {
@@ -34352,7 +33578,7 @@
   }
 
   #HEADLINE1659 > .ladi-headline:hover {
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
   }
 
   #HEADLINE1660 {
@@ -34371,7 +33597,7 @@
   }
 
   #HEADLINE1660 > .ladi-headline:hover {
-    color: rgb(205, 19, 119);
+    color: rgb(17, 17, 17);
   }
 
   #GROUP1656 {
