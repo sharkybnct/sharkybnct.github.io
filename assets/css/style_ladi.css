@@ -1838,7 +1838,7 @@ body {
 .ladi-image .ladi-image-background {
   background-repeat: no-repeat;
   background-position: left top;
-  background-size: cover;
+  background-size: 100%;
   background-attachment: scroll;
   background-origin: content-box;
   position: absolute;
