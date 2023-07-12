@@ -68,6 +68,15 @@
         background-color: $color;
         border-radius: 999px;
       }
+
+      .color-back {
+        background-color: black;
+      }
+      
+      .color-display {
+       display:  flex;
+       gap: 10px;
+      }
     }
 
     .length {
